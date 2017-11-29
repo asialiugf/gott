@@ -6,10 +6,9 @@ import (
 )
 
 func main() {
-	dispatcher := NewDispatcher() //不用多说了吧，代码很清楚了
+	dispatcher := NewDispatcher()
 	stt := new(strategy.Strategy)
-	// new() 出来的，是一个指针
-	listener_tick := NewListener("tick", 1, stt.OnTick)
+	listener_tick := NewListener("tick", 1, stt.OnTick) // new() 出来的，是一个指针
 	listener_bar := NewListener("bar", 2, stt.OnBar)
 
 	dispatcher.AddListener(listener_tick)

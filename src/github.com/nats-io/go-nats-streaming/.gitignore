@@ -20,27 +20,9 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+*.test
+*.prof
 
-# Eclipse
+# Eclipse stuff
 .project
-
-# IntelliJ
-.idea/
-
-# Emacs
-*~
-\#*\#
-.\#*
-
-# Mac
-.DS_Store
-
-# bin
-gnatsd
-
-# coverage
-coverage.out
-
-# Cross compiled binaries
-pkg
-
+.settings/
