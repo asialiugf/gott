@@ -6,7 +6,7 @@ gnatsd:                 nats server
 ats-streaming-server:   nats streaming server
 go-nats-streaming:      go nats streaming client
 asyncio-nats:           python3 nats client
-go-nats:                go i    nats client
+go-nats:                go      nats client
 
 drwxrwxr-x  8 riddle riddle 4096 Nov 29 17:42 asyncio-nats/
 drwxrwxr-x 10 riddle riddle 4096 Nov 29 17:19 gnatsd/
