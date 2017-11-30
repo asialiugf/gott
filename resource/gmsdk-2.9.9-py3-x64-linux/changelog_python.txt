@@ -1,0 +1,338 @@
+﻿2.9.7 - 2017/06/23
+
+-修复 因为回测时成交价与当前价差距大问题(复权回测)
+-修复 缓存文件大于2G时无法回测问题
+-修复 回测日线时，行情重复问题
+
+2.9.6 - 2017/04/07
+
+-升级 掘金 SDK 到 python 3.6
+-修复 同策略同条件多次回测结果不一致问题
+-修复 回测中最后一笔市价单成交价错误问题
+
+2.9.5 - 2017/01/23
+
+-修复 回测时市价单成交价问题
+
+2.9.4 - 2017/01/13
+
+-新增 resubscribe 重置订阅条件
+
+2.9.2 - 2016/11/12
+
+-新增 get_stock_adj 查询复权因子
+-新增 get_divident 查询分红送股明细
+-新增 get_virtual_contract 查询虚拟合约映射关系
+
+2.8.1 - 2016/04/16
+
+-新增 strategy.set_timer 设置定时器
+-新增 strategy.unset_timer 取消定时器
+-新增 strategy.on_timer 定时器回调方法
+-新增 Postion.available_yesterday字段
+-改进 sdk默认交易地址为终端
+-修复 Instrument中 代码名称太长显示不全问题
+-修复 用秒分时回测时数据缺少问题
+-修复 调用 md.unsubscribe 时和服务器断开连接问题
+
+2.8.0 - 2016/03/16
+
+-新增 td.get_orders 获取委托单
+-新增 td.get_orders_by_symbol 根据代码获取委托单
+-新增 md.get_calendar 获取交易日历
+-新增 td.set_backtest_finish_callback(func) 回测完成事件
+-改进 strategy_backtest_config 增加参数 bench_symbol
+
+2.7.1 -
+
+-修复 Python3 utf-8编码问题
+
+2.7.0 - 2016/01/07
+
+-新增 get_instruments 提取交易代码
+-新增 get_instruments_by_name
+-新增 get_constituents 提取指数据成分股
+-新增 get_last_n_ticks_by_time
+-新增 get_last_n_bars_by_time
+-新增 get_last_n_dailybars_by_time
+-新增 get_financial_index
+-新增 get_last_financial_index
+-新增 get_last_n_financial_index
+-新增 get_share_index
+-新增 get_last_share_index
+-新增 get_last_n_share_index
+-新增 get_market_index
+-新增 get_last_market_index
+-新增 get_last_n_market_index
+-新增 get_broker_accounts
+-新增 get_broker_cash
+-新增 get_broker_positions
+-新增 Instrument结构
+-新增 Constituent结构
+-新增 FinancialIndex结构
+-新增 ShareIndex结构
+-新增 MarketIndex结构
+-新增 BrokerAccount结构
+-新增 Bar中添加position字段
+-新增 Cash中添加account_id字段
+-新增 Position 中添加account_id字段
+
+
+2.6.1 - 2015/11/30
+
+-修复 回放时日频数据时，pre_close为0问题
+-修复 多个策略同时回测同一条件时，数据错乱问题
+-修复 多代码回测时SDK崩溃问题
+
+
+2.6.0 - 2015/11/02
+
+-新增: 平昨仓api 
+      gm_td_close_long_yesterday
+      gm_td_close_short_yesterday
+      gm_td_close_long_yesterday_sync
+      gm_td_close_short_yesterday_sync
+
+-更改: Bar: 去除bartime字段，增加strtime字段
+      DailyBar: 去除bartime字段，增加strtime字段
+      Tick: 增加strtime字段
+
+-修复 回测时缺少夜盘数据的问题
+
+- 新增: Position增加order_frozen_today，available_today
+
+- 更改: StrategyBase类初始化ini文件编码
+	* 增加`__init__()`参数`config_file_encoding`
+
+	2.6.1版本定义 
+```
+    def __init__(self,
+                 username='',
+                 password='',
+                 strategy_id='',
+                 subscribe_symbols='',
+                 mode=2,
+                 start_time='',
+                 end_time='',
+                 config_file='',
+                 config_file_encoding='utf-8',
+                 td_addr='',
+                 gm_addr=''):
+```
+	
+	2.6.0版本定义 
+```
+    def __init__(self,
+                 username='',
+                 password='',
+                 strategy_id='',
+                 subscribe_symbols='',
+                 mode=2,
+                 config_file=None,
+                 td_addr='',
+                 gm_addr=''):
+```
+      
+2.5.0 - 2015/10/26
+
+-新增: 回测时行情价格默认前复权处理。
+-修复: Python3下，订单被拒绝后程序崩溃
+-修复: 提取行情或回测时提示 10023 错误
+
+2.4.2 - 2015/10/12
+
+-修复: 回测或提取行情时，出现10023错误问题
+
+2.4.0 - 2015/08/24
+- 新增: linux 版本
+- 修复: 长时段与多代码的分钟线与日线回测时缺少数据问题。
+- 修复: 电脑休眠后无法自动重连到服务器问题。
+- 更改: StrategyBase.on_error()
+	* 删除处理日志的代码
+- 修复: Python 3 utf-8错误
+
+2.3.0 - 2015/8/13
+- 新增：网络错误代码
+
+- 新增：订单同步处理接口
+    * td.open_long_sync
+    * td.open_short_sync
+    * td.close_long_sync
+    * td.close_short_sync
+    * td.place_order_sync
+    * td.cancel_order_sync
+    * StrategyBase.open_long_sync
+    * StrategyBase.open_short_sync
+    * StrategyBase.close_long_sync
+    * StrategyBase.close_short_sync
+    * StrategyBase.place_order_sync
+    * StrategyBase.cancel_order_sync
+
+- 更改: StrategyBase.on_error()
+	* 删除处理重连的代码
+
+- 更改: StrategyBase.run()
+	* 回测时返回gm.run()
+    
+- 更改: Position类
+	* 增加今仓量字段 volume_today
+
+2.2.0 - 2015/7/17
+- 更改: StrategyBase类
+	* 删除`__init__()`参数`start_time`, `end_time`,
+
+	2.1.1版本定义 
+```
+    def __init__(self,
+                 username='',
+                 password='',
+                 strategy_id='',
+                 subscribe_symbols='',
+                 mode=2,
+                 start_time='',
+                 end_time='',
+                 config_file='',
+                 td_addr='',
+                 gm_addr=''):
+```
+	
+	2.2.0版本定义 
+```
+    def __init__(self,
+                 username='',
+                 password='',
+                 strategy_id='',
+                 subscribe_symbols='',
+                 mode=2,
+                 config_file=None,
+                 td_addr='',
+                 gm_addr=''):
+```
+	*增加回测配置函数`backtest_config()`,	
+
+
+- 更改: 订单类型
+	* 更改订单类型定义
+
+	2.1.1版本定义 
+```
+OrderType_Market = 1
+OrderType_Limit = 2
+OrderType_Stop = 3
+OrderType_StopLimit = 4
+OrderType_LimitOrBetter = 5
+```
+
+	2.2.0版本定义
+```
+OrderType_LMT = 0
+OrderType_BOC = 1
+OrderType_BOP = 2
+OrderType_B5TC = 3
+OrderType_B5TL = 4
+OrderType_IOC = 5
+OrderType_FOK = 6
+OrderType_AON = 7
+OrderType_MTL = 8
+OrderType_EXE = 9
+```
+
+
+- 增加: 错误类型
+	* 增加与回测相关的错误类型
+
+
+- 增加: Order类属性
+	* 增加止损价stop_price
+
+
+- 增加: Bar, DailyBar类属性
+	* 增加昨收价pre_close, 复权因子adj_factor, 停牌等标记flag
+    
+2.1.1 - 2015/6/19
+- 更改: 类型转换函数position_to_dict:
+	*函数名更改
+
+	2.1.0版本定义 
+	position_to_bar(potision)
+	
+	2.1.1版本定义 
+    position_to_dict(potision)
+
+
+
+- 删除: 删除vcredist依赖
+
+
+2.1.0 - 2015/05/29
+- 新增: 增加Python 2.7.x x86-64、Python 3.4.x x86、Python 3.4.x x86-64支持
+
+- 新增: 增加提取策略绩效指标API：get_indicator
+
+- 新增: 增加数据类型策略绩效：Indicator
+
+- 新增: 增加类型转换函数：tick_to_dict, bar_to_dict, dailybar_to_dict, order_to_dict, execrpt_to_dict, cash_to_dict, position_to_bar, indicator_to_dict
+ 
+- 更改: gm_login:
+	*删除行情服务器地址 md_addr 参数
+	*增加掘金认证服务地址 gm_addr, 可选，一般情况置为''
+	
+	2.0.0版本定义 
+	gm_login(md_addr, username, password)
+	
+	2.1.0版本定义 
+	gm_login(username, password, gm_addr='')
+
+- 更改: md.init:
+	*删除行情服务器地址 md_addr 参数
+	*增加掘金认证服务地址 gm_addr, 可选，一般情况置为''
+
+	2.0.0版本定义 
+	md.init(md_addr,username, password,mode=1,subscribe_symbols='',start_time='',end_time='',)
+	
+	2.1.0版本定义 
+    md.init(username, password, mode=1, subscribe_symbols='', start_time='', end_time='', gm_addr='')
+
+- 更改: td.init:
+	*删除行情服务器地址 md_addr 参数
+
+	2.0.0版本定义 
+	td.init(md_addr, username, password, strategy_id, td_addr='')
+	
+	2.1.0版本定义 
+    td.init(username, password, strategy_id, td_addr='')
+
+- 更改: StrategyBase.__init__: 
+	*删除md_addr参数
+	*td_addr 参数后移，可选参数，为''时使用掘金云交易服务。
+	*增加掘金认证服务地址 gm_addr, 可选，一般情况置为''
+
+	2.0.0版本定义 
+		__init__(self,
+		md_addr='',
+		td_addr='',
+		username='',
+		password='',
+		strategy_id='',
+		subscribe_symbols='',
+		mode=2,
+		start_time='',
+		end_time='',
+		config_file=''):
+  
+	2.1.0版本定义
+		__init__(self,
+		username='',
+		password='',
+		strategy_id='',
+		subscribe_symbols='',
+		mode=2,
+		start_time='',
+		end_time='',
+		config_file='',
+		td_addr='',
+		gm_addr=''):
+
+- 删除: 删除cffi库依赖
+
+- 删除: 删除pycparser库依赖
