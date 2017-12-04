@@ -1,0 +1,1 @@
+/usr/bin/cc    -std=c99 -pedantic -pthread -Wall -W -Wno-unused-variable -Wno-unused-parameter -Wno-unused-function -Wstrict-prototypes -Wwrite-strings -O3 -DNDEBUG   CMakeFiles/testsuite.dir/test.c.o  -o testsuite -rdynamic ../src/libnats_static.a -lrt /root/anaconda3/lib/libssl.so /root/anaconda3/lib/libcrypto.so -Wl,-rpath,/root/anaconda3/lib 

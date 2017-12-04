@@ -1,0 +1,24 @@
+language: python
+
+cache:
+  directories:
+  - $HOME/nats-streaming-server
+
+python:
+  - 3.5.1
+  - 3.6
+
+before_install:
+  - bash ./script/install_gnatsd.sh
+
+before_script:
+  - export PATH=$HOME/nats-streaming-server:$PATH
+  
+script:
+  - ./script/test.sh
+
+notifications:
+  email: false
+
+sudo: false
+dist: trusty

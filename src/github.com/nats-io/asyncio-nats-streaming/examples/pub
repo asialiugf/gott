@@ -1,0 +1,1 @@
+python async_publishing.py -s nats://0.0.0.0:4222 abc qwewwwwwww

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riddle/gott/src/github.com/nats-io/cnats/examples/examples.h
+nats.h
+-
+stdio.h
+-
+string.h
+-
+strings.h
+-
+
+/home/riddle/gott/src/github.com/nats-io/cnats/examples/requestor.c
+examples.h
+/home/riddle/gott/src/github.com/nats-io/cnats/examples/examples.h
+
+src/nats.h
+stdlib.h
+-
+stdint.h
+-
+stdbool.h
+-
+inttypes.h
+-
+stdio.h
+-
+status.h
+src/status.h
+version.h
+src/version.h
+winsock2.h
+-
+
+src/status.h
+
+src/version.h
+
