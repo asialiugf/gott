@@ -1,0 +1,102 @@
+// Copyright 2017 Apcera Inc. All rights reserved.
+
+#include <stdio.h>
+//#include <time.h>
+#include <nats.h>
+//#include <sys/time.h>
+#include <linux/time.h>
+#define MILLION 1000000
+
+int main(int argc, char **argv)
+{
+    natsConnection      *conn = NULL;
+    natsStatus          s;
+	natsSubscription    *sub  = NULL;
+	natsMsg             *msg  = NULL;
+	int x=0;
+	int y=0;
+	int begin, end;
+
+    struct timespec tpstart;
+    struct timespec tpend;
+    long timedif;
+
+
+/*
+    struct  timeval start;
+    struct  timeval end1;
+    unsigned  long diff;
+	*/
+
+
+
+    printf("Publishes a message on subject 'foo'\n");
+
+    // Creates a connection to the default NATS URL
+    s = natsConnection_ConnectTo(&conn, NATS_DEFAULT_URL);
+    if (s != NATS_OK) { return -1;
+    }
+
+    s = natsConnection_SubscribeSync(&sub, conn, "foo");
+
+
+    while(1){
+	   //begin=clock();
+       //gettimeofday(&start,NULL); 
+       clock_gettime(CLOCK_MONOTONIC, &tpstart);
+       s = natsConnection_PublishString(conn, "foo", "hello!");
+	   //x = x+1;
+	   //printf("x:%d\n",x);
+
+      if (s == NATS_OK)
+      {
+        // With synchronous subscriptions, one need to poll
+        // using this function. A timeout is used to instruct
+        // how long we are willing to wait. The wait is in milliseconds.
+        // So here, we are going to wait for 5 seconds.
+        s = natsSubscription_NextMsg(&msg, sub, 500000);
+      }
+      if (s == NATS_OK)
+      { 
+       clock_gettime(CLOCK_MONOTONIC, &tpend);
+	   //end=clock();//结束计时  
+        //gettimeofday(&end1,NULL);
+        //diff = 1000000 * (end1.tv_sec-start.tv_sec)+ end1.tv_usec-start.tv_usec;
+        //printf("thedifference is %ld\n",diff);
+        timedif = MILLION*(tpend.tv_sec-tpstart.tv_sec)+(tpend.tv_nsec-tpstart.tv_nsec)/1000;
+        fprintf(stdout, "it took %ld microseconds\n", timedif);
+
+
+	   //printf("%d\n", end-begin);//差为时间，单位毫秒  
+        // If we are here, we should have received a message.
+        printf("Received msg: %s - %.*s\n",
+               natsMsg_GetSubject(msg),
+               natsMsg_GetDataLength(msg),
+               natsMsg_GetData(msg));
+	    y= y+1;
+		printf("y:%d\n",y);
+
+        // Need to destroy the message!
+        natsMsg_Destroy(msg);
+      }
+    }
+
+
+
+
+
+
+
+    natsConnection_Destroy(conn);
+
+    if (s != NATS_OK) {
+        nats_PrintLastErrorStack(stderr);
+        exit(2);
+    }
+
+    return 0;
+}
+
+
+
+

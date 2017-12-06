@@ -1,0 +1,1 @@
+g++ -o demo.so -export-dynamic -m64 -shared -I/usr/include/python3.5m demo.c -fPIC

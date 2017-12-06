@@ -1,0 +1,3618 @@
+Publishes a message on subject 'foo'
+thedifference is 902
+Received msg: foo - hello!
+y:1
+thedifference is 951
+Received msg: foo - hello!
+y:2
+thedifference is 956
+Received msg: foo - hello!
+y:3
+thedifference is 1024
+Received msg: foo - hello!
+y:4
+thedifference is 1001
+Received msg: foo - hello!
+y:5
+thedifference is 997
+Received msg: foo - hello!
+y:6
+thedifference is 1000
+Received msg: foo - hello!
+y:7
+thedifference is 993
+Received msg: foo - hello!
+y:8
+thedifference is 1003
+Received msg: foo - hello!
+y:9
+thedifference is 994
+Received msg: foo - hello!
+y:10
+thedifference is 998
+Received msg: foo - hello!
+y:11
+thedifference is 1001
+Received msg: foo - hello!
+y:12
+thedifference is 995
+Received msg: foo - hello!
+y:13
+thedifference is 996
+Received msg: foo - hello!
+y:14
+thedifference is 996
+Received msg: foo - hello!
+y:15
+thedifference is 1001
+Received msg: foo - hello!
+y:16
+thedifference is 1003
+Received msg: foo - hello!
+y:17
+thedifference is 993
+Received msg: foo - hello!
+y:18
+thedifference is 1001
+Received msg: foo - hello!
+y:19
+thedifference is 995
+Received msg: foo - hello!
+y:20
+thedifference is 998
+Received msg: foo - hello!
+y:21
+thedifference is 1031
+Received msg: foo - hello!
+y:22
+thedifference is 973
+Received msg: foo - hello!
+y:23
+thedifference is 995
+Received msg: foo - hello!
+y:24
+thedifference is 1027
+Received msg: foo - hello!
+y:25
+thedifference is 969
+Received msg: foo - hello!
+y:26
+thedifference is 992
+Received msg: foo - hello!
+y:27
+thedifference is 997
+Received msg: foo - hello!
+y:28
+thedifference is 996
+Received msg: foo - hello!
+y:29
+thedifference is 995
+Received msg: foo - hello!
+y:30
+thedifference is 1036
+Received msg: foo - hello!
+y:31
+thedifference is 1008
+Received msg: foo - hello!
+y:32
+thedifference is 969
+Received msg: foo - hello!
+y:33
+thedifference is 977
+Received msg: foo - hello!
+y:34
+thedifference is 992
+Received msg: foo - hello!
+y:35
+thedifference is 997
+Received msg: foo - hello!
+y:36
+thedifference is 1004
+Received msg: foo - hello!
+y:37
+thedifference is 1239
+Received msg: foo - hello!
+y:38
+thedifference is 753
+Received msg: foo - hello!
+y:39
+thedifference is 994
+Received msg: foo - hello!
+y:40
+thedifference is 1000
+Received msg: foo - hello!
+y:41
+thedifference is 991
+Received msg: foo - hello!
+y:42
+thedifference is 1000
+Received msg: foo - hello!
+y:43
+thedifference is 1000
+Received msg: foo - hello!
+y:44
+thedifference is 995
+Received msg: foo - hello!
+y:45
+thedifference is 1028
+Received msg: foo - hello!
+y:46
+thedifference is 966
+Received msg: foo - hello!
+y:47
+thedifference is 996
+Received msg: foo - hello!
+y:48
+thedifference is 1037
+Received msg: foo - hello!
+y:49
+thedifference is 1004
+Received msg: foo - hello!
+y:50
+thedifference is 1005
+Received msg: foo - hello!
+y:51
+thedifference is 952
+Received msg: foo - hello!
+y:52
+thedifference is 1025
+Received msg: foo - hello!
+y:53
+thedifference is 966
+Received msg: foo - hello!
+y:54
+thedifference is 1078
+Received msg: foo - hello!
+y:55
+thedifference is 956
+Received msg: foo - hello!
+y:56
+thedifference is 962
+Received msg: foo - hello!
+y:57
+thedifference is 991
+Received msg: foo - hello!
+y:58
+thedifference is 1034
+Received msg: foo - hello!
+y:59
+thedifference is 956
+Received msg: foo - hello!
+y:60
+thedifference is 1004
+Received msg: foo - hello!
+y:61
+thedifference is 987
+Received msg: foo - hello!
+y:62
+thedifference is 1029
+Received msg: foo - hello!
+y:63
+thedifference is 968
+Received msg: foo - hello!
+y:64
+thedifference is 956
+Received msg: foo - hello!
+y:65
+thedifference is 1042
+Received msg: foo - hello!
+y:66
+thedifference is 1057
+Received msg: foo - hello!
+y:67
+thedifference is 937
+Received msg: foo - hello!
+y:68
+thedifference is 998
+Received msg: foo - hello!
+y:69
+thedifference is 996
+Received msg: foo - hello!
+y:70
+thedifference is 1006
+Received msg: foo - hello!
+y:71
+thedifference is 988
+Received msg: foo - hello!
+y:72
+thedifference is 1049
+Received msg: foo - hello!
+y:73
+thedifference is 992
+Received msg: foo - hello!
+y:74
+thedifference is 996
+Received msg: foo - hello!
+y:75
+thedifference is 963
+Received msg: foo - hello!
+y:76
+thedifference is 1002
+Received msg: foo - hello!
+y:77
+thedifference is 993
+Received msg: foo - hello!
+y:78
+thedifference is 965
+Received msg: foo - hello!
+y:79
+thedifference is 995
+Received msg: foo - hello!
+y:80
+thedifference is 1031
+Received msg: foo - hello!
+y:81
+thedifference is 963
+Received msg: foo - hello!
+y:82
+thedifference is 998
+Received msg: foo - hello!
+y:83
+thedifference is 1028
+Received msg: foo - hello!
+y:84
+thedifference is 967
+Received msg: foo - hello!
+y:85
+thedifference is 999
+Received msg: foo - hello!
+y:86
+thedifference is 1027
+Received msg: foo - hello!
+y:87
+thedifference is 968
+Received msg: foo - hello!
+y:88
+thedifference is 999
+Received msg: foo - hello!
+y:89
+thedifference is 1024
+Received msg: foo - hello!
+y:90
+thedifference is 975
+Received msg: foo - hello!
+y:91
+thedifference is 988
+Received msg: foo - hello!
+y:92
+thedifference is 1032
+Received msg: foo - hello!
+y:93
+thedifference is 969
+Received msg: foo - hello!
+y:94
+thedifference is 999
+Received msg: foo - hello!
+y:95
+thedifference is 1026
+Received msg: foo - hello!
+y:96
+thedifference is 971
+Received msg: foo - hello!
+y:97
+thedifference is 996
+Received msg: foo - hello!
+y:98
+thedifference is 1026
+Received msg: foo - hello!
+y:99
+thedifference is 969
+Received msg: foo - hello!
+y:100
+thedifference is 1029
+Received msg: foo - hello!
+y:101
+thedifference is 962
+Received msg: foo - hello!
+y:102
+thedifference is 996
+Received msg: foo - hello!
+y:103
+thedifference is 1085
+Received msg: foo - hello!
+y:104
+thedifference is 935
+Received msg: foo - hello!
+y:105
+thedifference is 978
+Received msg: foo - hello!
+y:106
+thedifference is 1019
+Received msg: foo - hello!
+y:107
+thedifference is 974
+Received msg: foo - hello!
+y:108
+thedifference is 993
+Received msg: foo - hello!
+y:109
+thedifference is 1026
+Received msg: foo - hello!
+y:110
+thedifference is 974
+Received msg: foo - hello!
+y:111
+thedifference is 989
+Received msg: foo - hello!
+y:112
+thedifference is 1040
+Received msg: foo - hello!
+y:113
+thedifference is 962
+Received msg: foo - hello!
+y:114
+thedifference is 982
+Received msg: foo - hello!
+y:115
+thedifference is 1026
+Received msg: foo - hello!
+y:116
+thedifference is 966
+Received msg: foo - hello!
+y:117
+thedifference is 1082
+Received msg: foo - hello!
+y:118
+thedifference is 916
+Received msg: foo - hello!
+y:119
+thedifference is 987
+Received msg: foo - hello!
+y:120
+thedifference is 996
+Received msg: foo - hello!
+y:121
+thedifference is 1017
+Received msg: foo - hello!
+y:122
+thedifference is 967
+Received msg: foo - hello!
+y:123
+thedifference is 991
+Received msg: foo - hello!
+y:124
+thedifference is 1026
+Received msg: foo - hello!
+y:125
+thedifference is 966
+Received msg: foo - hello!
+y:126
+thedifference is 993
+Received msg: foo - hello!
+y:127
+thedifference is 1025
+Received msg: foo - hello!
+y:128
+thedifference is 965
+Received msg: foo - hello!
+y:129
+thedifference is 992
+Received msg: foo - hello!
+y:130
+thedifference is 1078
+Received msg: foo - hello!
+y:131
+thedifference is 918
+Received msg: foo - hello!
+y:132
+thedifference is 989
+Received msg: foo - hello!
+y:133
+thedifference is 992
+Received msg: foo - hello!
+y:134
+thedifference is 993
+Received msg: foo - hello!
+y:135
+thedifference is 994
+Received msg: foo - hello!
+y:136
+thedifference is 997
+Received msg: foo - hello!
+y:137
+thedifference is 993
+Received msg: foo - hello!
+y:138
+thedifference is 994
+Received msg: foo - hello!
+y:139
+thedifference is 994
+Received msg: foo - hello!
+y:140
+thedifference is 996
+Received msg: foo - hello!
+y:141
+thedifference is 992
+Received msg: foo - hello!
+y:142
+thedifference is 993
+Received msg: foo - hello!
+y:143
+thedifference is 996
+Received msg: foo - hello!
+y:144
+thedifference is 994
+Received msg: foo - hello!
+y:145
+thedifference is 1022
+Received msg: foo - hello!
+y:146
+thedifference is 997
+Received msg: foo - hello!
+y:147
+thedifference is 961
+Received msg: foo - hello!
+y:148
+thedifference is 991
+Received msg: foo - hello!
+y:149
+thedifference is 990
+Received msg: foo - hello!
+y:150
+thedifference is 993
+Received msg: foo - hello!
+y:151
+thedifference is 994
+Received msg: foo - hello!
+y:152
+thedifference is 995
+Received msg: foo - hello!
+y:153
+thedifference is 982
+Received msg: foo - hello!
+y:154
+thedifference is 991
+Received msg: foo - hello!
+y:155
+thedifference is 1007
+Received msg: foo - hello!
+y:156
+thedifference is 994
+Received msg: foo - hello!
+y:157
+thedifference is 986
+Received msg: foo - hello!
+y:158
+thedifference is 1012
+Received msg: foo - hello!
+y:159
+thedifference is 976
+Received msg: foo - hello!
+y:160
+thedifference is 1003
+Received msg: foo - hello!
+y:161
+thedifference is 997
+Received msg: foo - hello!
+y:162
+thedifference is 982
+Received msg: foo - hello!
+y:163
+thedifference is 992
+Received msg: foo - hello!
+y:164
+thedifference is 999
+Received msg: foo - hello!
+y:165
+thedifference is 993
+Received msg: foo - hello!
+y:166
+thedifference is 1005
+Received msg: foo - hello!
+y:167
+thedifference is 984
+Received msg: foo - hello!
+y:168
+thedifference is 995
+Received msg: foo - hello!
+y:169
+thedifference is 998
+Received msg: foo - hello!
+y:170
+thedifference is 988
+Received msg: foo - hello!
+y:171
+thedifference is 994
+Received msg: foo - hello!
+y:172
+thedifference is 1003
+Received msg: foo - hello!
+y:173
+thedifference is 986
+Received msg: foo - hello!
+y:174
+thedifference is 993
+Received msg: foo - hello!
+y:175
+thedifference is 1760
+Received msg: foo - hello!
+y:176
+thedifference is 238
+Received msg: foo - hello!
+y:177
+thedifference is 996
+Received msg: foo - hello!
+y:178
+thedifference is 983
+Received msg: foo - hello!
+y:179
+thedifference is 991
+Received msg: foo - hello!
+y:180
+thedifference is 997
+Received msg: foo - hello!
+y:181
+thedifference is 991
+Received msg: foo - hello!
+y:182
+thedifference is 981
+Received msg: foo - hello!
+y:183
+thedifference is 1008
+Received msg: foo - hello!
+y:184
+thedifference is 996
+Received msg: foo - hello!
+y:185
+thedifference is 993
+Received msg: foo - hello!
+y:186
+thedifference is 993
+Received msg: foo - hello!
+y:187
+thedifference is 1004
+Received msg: foo - hello!
+y:188
+thedifference is 988
+Received msg: foo - hello!
+y:189
+thedifference is 991
+Received msg: foo - hello!
+y:190
+thedifference is 994
+Received msg: foo - hello!
+y:191
+thedifference is 997
+Received msg: foo - hello!
+y:192
+thedifference is 993
+Received msg: foo - hello!
+y:193
+thedifference is 996
+Received msg: foo - hello!
+y:194
+thedifference is 991
+Received msg: foo - hello!
+y:195
+thedifference is 994
+Received msg: foo - hello!
+y:196
+thedifference is 1007
+Received msg: foo - hello!
+y:197
+thedifference is 986
+Received msg: foo - hello!
+y:198
+thedifference is 1123
+Received msg: foo - hello!
+y:199
+thedifference is 866
+Received msg: foo - hello!
+y:200
+thedifference is 997
+Received msg: foo - hello!
+y:201
+thedifference is 987
+Received msg: foo - hello!
+y:202
+thedifference is 1005
+Received msg: foo - hello!
+y:203
+thedifference is 1003
+Received msg: foo - hello!
+y:204
+thedifference is 978
+Received msg: foo - hello!
+y:205
+thedifference is 995
+Received msg: foo - hello!
+y:206
+thedifference is 989
+Received msg: foo - hello!
+y:207
+thedifference is 994
+Received msg: foo - hello!
+y:208
+thedifference is 997
+Received msg: foo - hello!
+y:209
+thedifference is 993
+Received msg: foo - hello!
+y:210
+thedifference is 1000
+Received msg: foo - hello!
+y:211
+thedifference is 991
+Received msg: foo - hello!
+y:212
+thedifference is 997
+Received msg: foo - hello!
+y:213
+thedifference is 1002
+Received msg: foo - hello!
+y:214
+thedifference is 988
+Received msg: foo - hello!
+y:215
+thedifference is 977
+Received msg: foo - hello!
+y:216
+thedifference is 1027
+Received msg: foo - hello!
+y:217
+thedifference is 987
+Received msg: foo - hello!
+y:218
+thedifference is 986
+Received msg: foo - hello!
+y:219
+thedifference is 1002
+Received msg: foo - hello!
+y:220
+thedifference is 989
+Received msg: foo - hello!
+y:221
+thedifference is 992
+Received msg: foo - hello!
+y:222
+thedifference is 991
+Received msg: foo - hello!
+y:223
+thedifference is 993
+Received msg: foo - hello!
+y:224
+thedifference is 996
+Received msg: foo - hello!
+y:225
+thedifference is 1430
+Received msg: foo - hello!
+y:226
+thedifference is 546
+Received msg: foo - hello!
+y:227
+thedifference is 995
+Received msg: foo - hello!
+y:228
+thedifference is 980
+Received msg: foo - hello!
+y:229
+thedifference is 986
+Received msg: foo - hello!
+y:230
+thedifference is 993
+Received msg: foo - hello!
+y:231
+thedifference is 1006
+Received msg: foo - hello!
+y:232
+thedifference is 987
+Received msg: foo - hello!
+y:233
+thedifference is 1006
+Received msg: foo - hello!
+y:234
+thedifference is 989
+Received msg: foo - hello!
+y:235
+thedifference is 987
+Received msg: foo - hello!
+y:236
+thedifference is 1002
+Received msg: foo - hello!
+y:237
+thedifference is 998
+Received msg: foo - hello!
+y:238
+thedifference is 981
+Received msg: foo - hello!
+y:239
+thedifference is 992
+Received msg: foo - hello!
+y:240
+thedifference is 1000
+Received msg: foo - hello!
+y:241
+thedifference is 1006
+Received msg: foo - hello!
+y:242
+thedifference is 983
+Received msg: foo - hello!
+y:243
+thedifference is 994
+Received msg: foo - hello!
+y:244
+thedifference is 992
+Received msg: foo - hello!
+y:245
+thedifference is 959
+Received msg: foo - hello!
+y:246
+thedifference is 1030
+Received msg: foo - hello!
+y:247
+thedifference is 993
+Received msg: foo - hello!
+y:248
+thedifference is 999
+Received msg: foo - hello!
+y:249
+thedifference is 992
+Received msg: foo - hello!
+y:250
+thedifference is 1004
+Received msg: foo - hello!
+y:251
+thedifference is 987
+Received msg: foo - hello!
+y:252
+thedifference is 992
+Received msg: foo - hello!
+y:253
+thedifference is 992
+Received msg: foo - hello!
+y:254
+thedifference is 994
+Received msg: foo - hello!
+y:255
+thedifference is 1001
+Received msg: foo - hello!
+y:256
+thedifference is 991
+Received msg: foo - hello!
+y:257
+thedifference is 992
+Received msg: foo - hello!
+y:258
+thedifference is 1040
+Received msg: foo - hello!
+y:259
+thedifference is 992
+Received msg: foo - hello!
+y:260
+thedifference is 963
+Received msg: foo - hello!
+y:261
+thedifference is 988
+Received msg: foo - hello!
+y:262
+thedifference is 986
+Received msg: foo - hello!
+y:263
+thedifference is 994
+Received msg: foo - hello!
+y:264
+thedifference is 1007
+Received msg: foo - hello!
+y:265
+thedifference is 983
+Received msg: foo - hello!
+y:266
+thedifference is 1004
+Received msg: foo - hello!
+y:267
+thedifference is 992
+Received msg: foo - hello!
+y:268
+thedifference is 997
+Received msg: foo - hello!
+y:269
+thedifference is 997
+Received msg: foo - hello!
+y:270
+thedifference is 995
+Received msg: foo - hello!
+y:271
+thedifference is 995
+Received msg: foo - hello!
+y:272
+thedifference is 998
+Received msg: foo - hello!
+y:273
+thedifference is 996
+Received msg: foo - hello!
+y:274
+thedifference is 1009
+Received msg: foo - hello!
+y:275
+thedifference is 989
+Received msg: foo - hello!
+y:276
+thedifference is 1012
+Received msg: foo - hello!
+y:277
+thedifference is 996
+Received msg: foo - hello!
+y:278
+thedifference is 984
+Received msg: foo - hello!
+y:279
+thedifference is 995
+Received msg: foo - hello!
+y:280
+thedifference is 1000
+Received msg: foo - hello!
+y:281
+thedifference is 995
+Received msg: foo - hello!
+y:282
+thedifference is 1101
+Received msg: foo - hello!
+y:283
+thedifference is 902
+Received msg: foo - hello!
+y:284
+thedifference is 993
+Received msg: foo - hello!
+y:285
+thedifference is 994
+Received msg: foo - hello!
+y:286
+thedifference is 1003
+Received msg: foo - hello!
+y:287
+thedifference is 995
+Received msg: foo - hello!
+y:288
+thedifference is 998
+Received msg: foo - hello!
+y:289
+thedifference is 1005
+Received msg: foo - hello!
+y:290
+thedifference is 990
+Received msg: foo - hello!
+y:291
+thedifference is 995
+Received msg: foo - hello!
+y:292
+thedifference is 999
+Received msg: foo - hello!
+y:293
+thedifference is 996
+Received msg: foo - hello!
+y:294
+thedifference is 1008
+Received msg: foo - hello!
+y:295
+thedifference is 990
+Received msg: foo - hello!
+y:296
+thedifference is 999
+Received msg: foo - hello!
+y:297
+thedifference is 994
+Received msg: foo - hello!
+y:298
+thedifference is 997
+Received msg: foo - hello!
+y:299
+thedifference is 998
+Received msg: foo - hello!
+y:300
+thedifference is 1001
+Received msg: foo - hello!
+y:301
+thedifference is 1016
+Received msg: foo - hello!
+y:302
+thedifference is 980
+Received msg: foo - hello!
+y:303
+thedifference is 996
+Received msg: foo - hello!
+y:304
+thedifference is 987
+Received msg: foo - hello!
+y:305
+thedifference is 993
+Received msg: foo - hello!
+y:306
+thedifference is 1026
+Received msg: foo - hello!
+y:307
+thedifference is 972
+Received msg: foo - hello!
+y:308
+thedifference is 997
+Received msg: foo - hello!
+y:309
+thedifference is 994
+Received msg: foo - hello!
+y:310
+thedifference is 997
+Received msg: foo - hello!
+y:311
+thedifference is 997
+Received msg: foo - hello!
+y:312
+thedifference is 999
+Received msg: foo - hello!
+y:313
+thedifference is 1003
+Received msg: foo - hello!
+y:314
+thedifference is 992
+Received msg: foo - hello!
+y:315
+thedifference is 1000
+Received msg: foo - hello!
+y:316
+thedifference is 995
+Received msg: foo - hello!
+y:317
+thedifference is 996
+Received msg: foo - hello!
+y:318
+thedifference is 997
+Received msg: foo - hello!
+y:319
+thedifference is 999
+Received msg: foo - hello!
+y:320
+thedifference is 999
+Received msg: foo - hello!
+y:321
+thedifference is 995
+Received msg: foo - hello!
+y:322
+thedifference is 1010
+Received msg: foo - hello!
+y:323
+thedifference is 992
+Received msg: foo - hello!
+y:324
+thedifference is 1004
+Received msg: foo - hello!
+y:325
+thedifference is 987
+Received msg: foo - hello!
+y:326
+thedifference is 996
+Received msg: foo - hello!
+y:327
+thedifference is 997
+Received msg: foo - hello!
+y:328
+thedifference is 1010
+Received msg: foo - hello!
+y:329
+thedifference is 987
+Received msg: foo - hello!
+y:330
+thedifference is 997
+Received msg: foo - hello!
+y:331
+thedifference is 1000
+Received msg: foo - hello!
+y:332
+thedifference is 997
+Received msg: foo - hello!
+y:333
+thedifference is 995
+Received msg: foo - hello!
+y:334
+thedifference is 1009
+Received msg: foo - hello!
+y:335
+thedifference is 992
+Received msg: foo - hello!
+y:336
+thedifference is 992
+Received msg: foo - hello!
+y:337
+thedifference is 1006
+Received msg: foo - hello!
+y:338
+thedifference is 1002
+Received msg: foo - hello!
+y:339
+thedifference is 998
+Received msg: foo - hello!
+y:340
+thedifference is 991
+Received msg: foo - hello!
+y:341
+thedifference is 999
+Received msg: foo - hello!
+y:342
+thedifference is 991
+Received msg: foo - hello!
+y:343
+thedifference is 996
+Received msg: foo - hello!
+y:344
+thedifference is 1009
+Received msg: foo - hello!
+y:345
+thedifference is 989
+Received msg: foo - hello!
+y:346
+thedifference is 995
+Received msg: foo - hello!
+y:347
+thedifference is 998
+Received msg: foo - hello!
+y:348
+thedifference is 998
+Received msg: foo - hello!
+y:349
+thedifference is 996
+Received msg: foo - hello!
+y:350
+thedifference is 997
+Received msg: foo - hello!
+y:351
+thedifference is 997
+Received msg: foo - hello!
+y:352
+thedifference is 1009
+Received msg: foo - hello!
+y:353
+thedifference is 988
+Received msg: foo - hello!
+y:354
+thedifference is 1005
+Received msg: foo - hello!
+y:355
+thedifference is 989
+Received msg: foo - hello!
+y:356
+thedifference is 997
+Received msg: foo - hello!
+y:357
+thedifference is 1007
+Received msg: foo - hello!
+y:358
+thedifference is 991
+Received msg: foo - hello!
+y:359
+thedifference is 996
+Received msg: foo - hello!
+y:360
+thedifference is 1001
+Received msg: foo - hello!
+y:361
+thedifference is 994
+Received msg: foo - hello!
+y:362
+thedifference is 997
+Received msg: foo - hello!
+y:363
+thedifference is 1000
+Received msg: foo - hello!
+y:364
+thedifference is 1006
+Received msg: foo - hello!
+y:365
+thedifference is 988
+Received msg: foo - hello!
+y:366
+thedifference is 1002
+Received msg: foo - hello!
+y:367
+thedifference is 993
+Received msg: foo - hello!
+y:368
+thedifference is 999
+Received msg: foo - hello!
+y:369
+thedifference is 998
+Received msg: foo - hello!
+y:370
+thedifference is 994
+Received msg: foo - hello!
+y:371
+thedifference is 998
+Received msg: foo - hello!
+y:372
+thedifference is 1005
+Received msg: foo - hello!
+y:373
+thedifference is 996
+Received msg: foo - hello!
+y:374
+thedifference is 1004
+Received msg: foo - hello!
+y:375
+thedifference is 989
+Received msg: foo - hello!
+y:376
+thedifference is 1033
+Received msg: foo - hello!
+y:377
+thedifference is 973
+Received msg: foo - hello!
+y:378
+thedifference is 989
+Received msg: foo - hello!
+y:379
+thedifference is 983
+Received msg: foo - hello!
+y:380
+thedifference is 997
+Received msg: foo - hello!
+y:381
+thedifference is 995
+Received msg: foo - hello!
+y:382
+thedifference is 1001
+Received msg: foo - hello!
+y:383
+thedifference is 995
+Received msg: foo - hello!
+y:384
+thedifference is 997
+Received msg: foo - hello!
+y:385
+thedifference is 997
+Received msg: foo - hello!
+y:386
+thedifference is 997
+Received msg: foo - hello!
+y:387
+thedifference is 999
+Received msg: foo - hello!
+y:388
+thedifference is 999
+Received msg: foo - hello!
+y:389
+thedifference is 997
+Received msg: foo - hello!
+y:390
+thedifference is 1017
+Received msg: foo - hello!
+y:391
+thedifference is 981
+Received msg: foo - hello!
+y:392
+thedifference is 1000
+Received msg: foo - hello!
+y:393
+thedifference is 995
+Received msg: foo - hello!
+y:394
+thedifference is 998
+Received msg: foo - hello!
+y:395
+thedifference is 997
+Received msg: foo - hello!
+y:396
+thedifference is 996
+Received msg: foo - hello!
+y:397
+thedifference is 997
+Received msg: foo - hello!
+y:398
+thedifference is 998
+Received msg: foo - hello!
+y:399
+thedifference is 997
+Received msg: foo - hello!
+y:400
+thedifference is 998
+Received msg: foo - hello!
+y:401
+thedifference is 997
+Received msg: foo - hello!
+y:402
+thedifference is 996
+Received msg: foo - hello!
+y:403
+thedifference is 1002
+Received msg: foo - hello!
+y:404
+thedifference is 997
+Received msg: foo - hello!
+y:405
+thedifference is 1000
+Received msg: foo - hello!
+y:406
+thedifference is 995
+Received msg: foo - hello!
+y:407
+thedifference is 999
+Received msg: foo - hello!
+y:408
+thedifference is 1000
+Received msg: foo - hello!
+y:409
+thedifference is 996
+Received msg: foo - hello!
+y:410
+thedifference is 998
+Received msg: foo - hello!
+y:411
+thedifference is 998
+Received msg: foo - hello!
+y:412
+thedifference is 999
+Received msg: foo - hello!
+y:413
+thedifference is 997
+Received msg: foo - hello!
+y:414
+thedifference is 999
+Received msg: foo - hello!
+y:415
+thedifference is 995
+Received msg: foo - hello!
+y:416
+thedifference is 971
+Received msg: foo - hello!
+y:417
+thedifference is 1028
+Received msg: foo - hello!
+y:418
+thedifference is 998
+Received msg: foo - hello!
+y:419
+thedifference is 997
+Received msg: foo - hello!
+y:420
+thedifference is 1000
+Received msg: foo - hello!
+y:421
+thedifference is 996
+Received msg: foo - hello!
+y:422
+thedifference is 997
+Received msg: foo - hello!
+y:423
+thedifference is 997
+Received msg: foo - hello!
+y:424
+thedifference is 999
+Received msg: foo - hello!
+y:425
+thedifference is 1002
+Received msg: foo - hello!
+y:426
+thedifference is 997
+Received msg: foo - hello!
+y:427
+thedifference is 995
+Received msg: foo - hello!
+y:428
+thedifference is 997
+Received msg: foo - hello!
+y:429
+thedifference is 999
+Received msg: foo - hello!
+y:430
+thedifference is 997
+Received msg: foo - hello!
+y:431
+thedifference is 997
+Received msg: foo - hello!
+y:432
+thedifference is 999
+Received msg: foo - hello!
+y:433
+thedifference is 997
+Received msg: foo - hello!
+y:434
+thedifference is 997
+Received msg: foo - hello!
+y:435
+thedifference is 998
+Received msg: foo - hello!
+y:436
+thedifference is 997
+Received msg: foo - hello!
+y:437
+thedifference is 1038
+Received msg: foo - hello!
+y:438
+thedifference is 967
+Received msg: foo - hello!
+y:439
+thedifference is 994
+Received msg: foo - hello!
+y:440
+thedifference is 998
+Received msg: foo - hello!
+y:441
+thedifference is 995
+Received msg: foo - hello!
+y:442
+thedifference is 998
+Received msg: foo - hello!
+y:443
+thedifference is 997
+Received msg: foo - hello!
+y:444
+thedifference is 998
+Received msg: foo - hello!
+y:445
+thedifference is 996
+Received msg: foo - hello!
+y:446
+thedifference is 1011
+Received msg: foo - hello!
+y:447
+thedifference is 989
+Received msg: foo - hello!
+y:448
+thedifference is 997
+Received msg: foo - hello!
+y:449
+thedifference is 996
+Received msg: foo - hello!
+y:450
+thedifference is 996
+Received msg: foo - hello!
+y:451
+thedifference is 997
+Received msg: foo - hello!
+y:452
+thedifference is 1004
+Received msg: foo - hello!
+y:453
+thedifference is 987
+Received msg: foo - hello!
+y:454
+thedifference is 997
+Received msg: foo - hello!
+y:455
+thedifference is 987
+Received msg: foo - hello!
+y:456
+thedifference is 998
+Received msg: foo - hello!
+y:457
+thedifference is 999
+Received msg: foo - hello!
+y:458
+thedifference is 995
+Received msg: foo - hello!
+y:459
+thedifference is 997
+Received msg: foo - hello!
+y:460
+thedifference is 1007
+Received msg: foo - hello!
+y:461
+thedifference is 989
+Received msg: foo - hello!
+y:462
+thedifference is 1001
+Received msg: foo - hello!
+y:463
+thedifference is 994
+Received msg: foo - hello!
+y:464
+thedifference is 998
+Received msg: foo - hello!
+y:465
+thedifference is 996
+Received msg: foo - hello!
+y:466
+thedifference is 997
+Received msg: foo - hello!
+y:467
+thedifference is 1003
+Received msg: foo - hello!
+y:468
+thedifference is 996
+Received msg: foo - hello!
+y:469
+thedifference is 997
+Received msg: foo - hello!
+y:470
+thedifference is 996
+Received msg: foo - hello!
+y:471
+thedifference is 1012
+Received msg: foo - hello!
+y:472
+thedifference is 999
+Received msg: foo - hello!
+y:473
+thedifference is 993
+Received msg: foo - hello!
+y:474
+thedifference is 997
+Received msg: foo - hello!
+y:475
+thedifference is 988
+Received msg: foo - hello!
+y:476
+thedifference is 1005
+Received msg: foo - hello!
+y:477
+thedifference is 993
+Received msg: foo - hello!
+y:478
+thedifference is 1004
+Received msg: foo - hello!
+y:479
+thedifference is 987
+Received msg: foo - hello!
+y:480
+thedifference is 996
+Received msg: foo - hello!
+y:481
+thedifference is 1010
+Received msg: foo - hello!
+y:482
+thedifference is 991
+Received msg: foo - hello!
+y:483
+thedifference is 995
+Received msg: foo - hello!
+y:484
+thedifference is 997
+Received msg: foo - hello!
+y:485
+thedifference is 995
+Received msg: foo - hello!
+y:486
+thedifference is 997
+Received msg: foo - hello!
+y:487
+thedifference is 1003
+Received msg: foo - hello!
+y:488
+thedifference is 1012
+Received msg: foo - hello!
+y:489
+thedifference is 981
+Received msg: foo - hello!
+y:490
+thedifference is 996
+Received msg: foo - hello!
+y:491
+thedifference is 1007
+Received msg: foo - hello!
+y:492
+thedifference is 999
+Received msg: foo - hello!
+y:493
+thedifference is 994
+Received msg: foo - hello!
+y:494
+thedifference is 997
+Received msg: foo - hello!
+y:495
+thedifference is 998
+Received msg: foo - hello!
+y:496
+thedifference is 998
+Received msg: foo - hello!
+y:497
+thedifference is 1046
+Received msg: foo - hello!
+y:498
+thedifference is 964
+Received msg: foo - hello!
+y:499
+thedifference is 992
+Received msg: foo - hello!
+y:500
+thedifference is 1037
+Received msg: foo - hello!
+y:501
+thedifference is 956
+Received msg: foo - hello!
+y:502
+thedifference is 991
+Received msg: foo - hello!
+y:503
+thedifference is 996
+Received msg: foo - hello!
+y:504
+thedifference is 998
+Received msg: foo - hello!
+y:505
+thedifference is 995
+Received msg: foo - hello!
+y:506
+thedifference is 1000
+Received msg: foo - hello!
+y:507
+thedifference is 1029
+Received msg: foo - hello!
+y:508
+thedifference is 977
+Received msg: foo - hello!
+y:509
+thedifference is 994
+Received msg: foo - hello!
+y:510
+thedifference is 989
+Received msg: foo - hello!
+y:511
+thedifference is 996
+Received msg: foo - hello!
+y:512
+thedifference is 999
+Received msg: foo - hello!
+y:513
+thedifference is 994
+Received msg: foo - hello!
+y:514
+thedifference is 997
+Received msg: foo - hello!
+y:515
+thedifference is 1034
+Received msg: foo - hello!
+y:516
+thedifference is 968
+Received msg: foo - hello!
+y:517
+thedifference is 995
+Received msg: foo - hello!
+y:518
+thedifference is 992
+Received msg: foo - hello!
+y:519
+thedifference is 997
+Received msg: foo - hello!
+y:520
+thedifference is 999
+Received msg: foo - hello!
+y:521
+thedifference is 996
+Received msg: foo - hello!
+y:522
+thedifference is 1001
+Received msg: foo - hello!
+y:523
+thedifference is 1003
+Received msg: foo - hello!
+y:524
+thedifference is 987
+Received msg: foo - hello!
+y:525
+thedifference is 993
+Received msg: foo - hello!
+y:526
+thedifference is 997
+Received msg: foo - hello!
+y:527
+thedifference is 1003
+Received msg: foo - hello!
+y:528
+thedifference is 996
+Received msg: foo - hello!
+y:529
+thedifference is 996
+Received msg: foo - hello!
+y:530
+thedifference is 988
+Received msg: foo - hello!
+y:531
+thedifference is 1010
+Received msg: foo - hello!
+y:532
+thedifference is 990
+Received msg: foo - hello!
+y:533
+thedifference is 991
+Received msg: foo - hello!
+y:534
+thedifference is 997
+Received msg: foo - hello!
+y:535
+thedifference is 1013
+Received msg: foo - hello!
+y:536
+thedifference is 985
+Received msg: foo - hello!
+y:537
+thedifference is 1001
+Received msg: foo - hello!
+y:538
+thedifference is 990
+Received msg: foo - hello!
+y:539
+thedifference is 1008
+Received msg: foo - hello!
+y:540
+thedifference is 991
+Received msg: foo - hello!
+y:541
+thedifference is 994
+Received msg: foo - hello!
+y:542
+thedifference is 1002
+Received msg: foo - hello!
+y:543
+thedifference is 993
+Received msg: foo - hello!
+y:544
+thedifference is 1003
+Received msg: foo - hello!
+y:545
+thedifference is 994
+Received msg: foo - hello!
+y:546
+thedifference is 1011
+Received msg: foo - hello!
+y:547
+thedifference is 988
+Received msg: foo - hello!
+y:548
+thedifference is 998
+Received msg: foo - hello!
+y:549
+thedifference is 995
+Received msg: foo - hello!
+y:550
+thedifference is 998
+Received msg: foo - hello!
+y:551
+thedifference is 996
+Received msg: foo - hello!
+y:552
+thedifference is 1002
+Received msg: foo - hello!
+y:553
+thedifference is 993
+Received msg: foo - hello!
+y:554
+thedifference is 1006
+Received msg: foo - hello!
+y:555
+thedifference is 989
+Received msg: foo - hello!
+y:556
+thedifference is 998
+Received msg: foo - hello!
+y:557
+thedifference is 997
+Received msg: foo - hello!
+y:558
+thedifference is 998
+Received msg: foo - hello!
+y:559
+thedifference is 996
+Received msg: foo - hello!
+y:560
+thedifference is 1000
+Received msg: foo - hello!
+y:561
+thedifference is 996
+Received msg: foo - hello!
+y:562
+thedifference is 1009
+Received msg: foo - hello!
+y:563
+thedifference is 988
+Received msg: foo - hello!
+y:564
+thedifference is 996
+Received msg: foo - hello!
+y:565
+thedifference is 997
+Received msg: foo - hello!
+y:566
+thedifference is 997
+Received msg: foo - hello!
+y:567
+thedifference is 1000
+Received msg: foo - hello!
+y:568
+thedifference is 997
+Received msg: foo - hello!
+y:569
+thedifference is 997
+Received msg: foo - hello!
+y:570
+thedifference is 1006
+Received msg: foo - hello!
+y:571
+thedifference is 990
+Received msg: foo - hello!
+y:572
+thedifference is 1001
+Received msg: foo - hello!
+y:573
+thedifference is 994
+Received msg: foo - hello!
+y:574
+thedifference is 997
+Received msg: foo - hello!
+y:575
+thedifference is 998
+Received msg: foo - hello!
+y:576
+thedifference is 966
+Received msg: foo - hello!
+y:577
+thedifference is 1033
+Received msg: foo - hello!
+y:578
+thedifference is 1040
+Received msg: foo - hello!
+y:579
+thedifference is 975
+Received msg: foo - hello!
+y:580
+thedifference is 992
+Received msg: foo - hello!
+y:581
+thedifference is 1024
+Received msg: foo - hello!
+y:582
+thedifference is 964
+Received msg: foo - hello!
+y:583
+thedifference is 997
+Received msg: foo - hello!
+y:584
+thedifference is 996
+Received msg: foo - hello!
+y:585
+thedifference is 995
+Received msg: foo - hello!
+y:586
+thedifference is 997
+Received msg: foo - hello!
+y:587
+thedifference is 981
+Received msg: foo - hello!
+y:588
+thedifference is 1016
+Received msg: foo - hello!
+y:589
+thedifference is 1047
+Received msg: foo - hello!
+y:590
+thedifference is 956
+Received msg: foo - hello!
+y:591
+thedifference is 987
+Received msg: foo - hello!
+y:592
+thedifference is 1004
+Received msg: foo - hello!
+y:593
+thedifference is 1000
+Received msg: foo - hello!
+y:594
+thedifference is 985
+Received msg: foo - hello!
+y:595
+thedifference is 997
+Received msg: foo - hello!
+y:596
+thedifference is 997
+Received msg: foo - hello!
+y:597
+thedifference is 1007
+Received msg: foo - hello!
+y:598
+thedifference is 988
+Received msg: foo - hello!
+y:599
+thedifference is 997
+Received msg: foo - hello!
+y:600
+thedifference is 998
+Received msg: foo - hello!
+y:601
+thedifference is 995
+Received msg: foo - hello!
+y:602
+thedifference is 1002
+Received msg: foo - hello!
+y:603
+thedifference is 991
+Received msg: foo - hello!
+y:604
+thedifference is 1008
+Received msg: foo - hello!
+y:605
+thedifference is 985
+Received msg: foo - hello!
+y:606
+thedifference is 1042
+Received msg: foo - hello!
+y:607
+thedifference is 942
+Received msg: foo - hello!
+y:608
+thedifference is 996
+Received msg: foo - hello!
+y:609
+thedifference is 994
+Received msg: foo - hello!
+y:610
+thedifference is 998
+Received msg: foo - hello!
+y:611
+thedifference is 996
+Received msg: foo - hello!
+y:612
+thedifference is 1004
+Received msg: foo - hello!
+y:613
+thedifference is 992
+Received msg: foo - hello!
+y:614
+thedifference is 997
+Received msg: foo - hello!
+y:615
+thedifference is 1008
+Received msg: foo - hello!
+y:616
+thedifference is 990
+Received msg: foo - hello!
+y:617
+thedifference is 1000
+Received msg: foo - hello!
+y:618
+thedifference is 993
+Received msg: foo - hello!
+y:619
+thedifference is 1011
+Received msg: foo - hello!
+y:620
+thedifference is 992
+Received msg: foo - hello!
+y:621
+thedifference is 991
+Received msg: foo - hello!
+y:622
+thedifference is 1003
+Received msg: foo - hello!
+y:623
+thedifference is 992
+Received msg: foo - hello!
+y:624
+thedifference is 999
+Received msg: foo - hello!
+y:625
+thedifference is 1010
+Received msg: foo - hello!
+y:626
+thedifference is 986
+Received msg: foo - hello!
+y:627
+thedifference is 1001
+Received msg: foo - hello!
+y:628
+thedifference is 994
+Received msg: foo - hello!
+y:629
+thedifference is 995
+Received msg: foo - hello!
+y:630
+thedifference is 999
+Received msg: foo - hello!
+y:631
+thedifference is 998
+Received msg: foo - hello!
+y:632
+thedifference is 1013
+Received msg: foo - hello!
+y:633
+thedifference is 986
+Received msg: foo - hello!
+y:634
+thedifference is 995
+Received msg: foo - hello!
+y:635
+thedifference is 997
+Received msg: foo - hello!
+y:636
+thedifference is 999
+Received msg: foo - hello!
+y:637
+thedifference is 1004
+Received msg: foo - hello!
+y:638
+thedifference is 1027
+Received msg: foo - hello!
+y:639
+thedifference is 970
+Received msg: foo - hello!
+y:640
+thedifference is 979
+Received msg: foo - hello!
+y:641
+thedifference is 1016
+Received msg: foo - hello!
+y:642
+thedifference is 1002
+Received msg: foo - hello!
+y:643
+thedifference is 992
+Received msg: foo - hello!
+y:644
+thedifference is 998
+Received msg: foo - hello!
+y:645
+thedifference is 996
+Received msg: foo - hello!
+y:646
+thedifference is 997
+Received msg: foo - hello!
+y:647
+thedifference is 1002
+Received msg: foo - hello!
+y:648
+thedifference is 995
+Received msg: foo - hello!
+y:649
+thedifference is 996
+Received msg: foo - hello!
+y:650
+thedifference is 993
+Received msg: foo - hello!
+y:651
+thedifference is 997
+Received msg: foo - hello!
+y:652
+thedifference is 1003
+Received msg: foo - hello!
+y:653
+thedifference is 994
+Received msg: foo - hello!
+y:654
+thedifference is 996
+Received msg: foo - hello!
+y:655
+thedifference is 1010
+Received msg: foo - hello!
+y:656
+thedifference is 996
+Received msg: foo - hello!
+y:657
+thedifference is 992
+Received msg: foo - hello!
+y:658
+thedifference is 992
+Received msg: foo - hello!
+y:659
+thedifference is 996
+Received msg: foo - hello!
+y:660
+thedifference is 1005
+Received msg: foo - hello!
+y:661
+thedifference is 1021
+Received msg: foo - hello!
+y:662
+thedifference is 979
+Received msg: foo - hello!
+y:663
+thedifference is 991
+Received msg: foo - hello!
+y:664
+thedifference is 998
+Received msg: foo - hello!
+y:665
+thedifference is 996
+Received msg: foo - hello!
+y:666
+thedifference is 996
+Received msg: foo - hello!
+y:667
+thedifference is 997
+Received msg: foo - hello!
+y:668
+thedifference is 1001
+Received msg: foo - hello!
+y:669
+thedifference is 997
+Received msg: foo - hello!
+y:670
+thedifference is 996
+Received msg: foo - hello!
+y:671
+thedifference is 997
+Received msg: foo - hello!
+y:672
+thedifference is 1001
+Received msg: foo - hello!
+y:673
+thedifference is 994
+Received msg: foo - hello!
+y:674
+thedifference is 996
+Received msg: foo - hello!
+y:675
+thedifference is 997
+Received msg: foo - hello!
+y:676
+thedifference is 1001
+Received msg: foo - hello!
+y:677
+thedifference is 997
+Received msg: foo - hello!
+y:678
+thedifference is 992
+Received msg: foo - hello!
+y:679
+thedifference is 999
+Received msg: foo - hello!
+y:680
+thedifference is 1000
+Received msg: foo - hello!
+y:681
+thedifference is 985
+Received msg: foo - hello!
+y:682
+thedifference is 996
+Received msg: foo - hello!
+y:683
+thedifference is 1018
+Received msg: foo - hello!
+y:684
+thedifference is 987
+Received msg: foo - hello!
+y:685
+thedifference is 989
+Received msg: foo - hello!
+y:686
+thedifference is 996
+Received msg: foo - hello!
+y:687
+thedifference is 996
+Received msg: foo - hello!
+y:688
+thedifference is 1016
+Received msg: foo - hello!
+y:689
+thedifference is 981
+Received msg: foo - hello!
+y:690
+thedifference is 992
+Received msg: foo - hello!
+y:691
+thedifference is 997
+Received msg: foo - hello!
+y:692
+thedifference is 999
+Received msg: foo - hello!
+y:693
+thedifference is 995
+Received msg: foo - hello!
+y:694
+thedifference is 1000
+Received msg: foo - hello!
+y:695
+thedifference is 997
+Received msg: foo - hello!
+y:696
+thedifference is 1000
+Received msg: foo - hello!
+y:697
+thedifference is 999
+Received msg: foo - hello!
+y:698
+thedifference is 994
+Received msg: foo - hello!
+y:699
+thedifference is 999
+Received msg: foo - hello!
+y:700
+thedifference is 999
+Received msg: foo - hello!
+y:701
+thedifference is 997
+Received msg: foo - hello!
+y:702
+thedifference is 996
+Received msg: foo - hello!
+y:703
+thedifference is 997
+Received msg: foo - hello!
+y:704
+thedifference is 999
+Received msg: foo - hello!
+y:705
+thedifference is 997
+Received msg: foo - hello!
+y:706
+thedifference is 1000
+Received msg: foo - hello!
+y:707
+thedifference is 996
+Received msg: foo - hello!
+y:708
+thedifference is 999
+Received msg: foo - hello!
+y:709
+thedifference is 997
+Received msg: foo - hello!
+y:710
+thedifference is 997
+Received msg: foo - hello!
+y:711
+thedifference is 998
+Received msg: foo - hello!
+y:712
+thedifference is 998
+Received msg: foo - hello!
+y:713
+thedifference is 996
+Received msg: foo - hello!
+y:714
+thedifference is 998
+Received msg: foo - hello!
+y:715
+thedifference is 998
+Received msg: foo - hello!
+y:716
+thedifference is 1003
+Received msg: foo - hello!
+y:717
+thedifference is 996
+Received msg: foo - hello!
+y:718
+thedifference is 1035
+Received msg: foo - hello!
+y:719
+thedifference is 967
+Received msg: foo - hello!
+y:720
+thedifference is 993
+Received msg: foo - hello!
+y:721
+thedifference is 993
+Received msg: foo - hello!
+y:722
+thedifference is 996
+Received msg: foo - hello!
+y:723
+thedifference is 998
+Received msg: foo - hello!
+y:724
+thedifference is 999
+Received msg: foo - hello!
+y:725
+thedifference is 1422
+Received msg: foo - hello!
+y:726
+thedifference is 579
+Received msg: foo - hello!
+y:727
+thedifference is 991
+Received msg: foo - hello!
+y:728
+thedifference is 998
+Received msg: foo - hello!
+y:729
+thedifference is 996
+Received msg: foo - hello!
+y:730
+thedifference is 998
+Received msg: foo - hello!
+y:731
+thedifference is 998
+Received msg: foo - hello!
+y:732
+thedifference is 1007
+Received msg: foo - hello!
+y:733
+thedifference is 985
+Received msg: foo - hello!
+y:734
+thedifference is 996
+Received msg: foo - hello!
+y:735
+thedifference is 998
+Received msg: foo - hello!
+y:736
+thedifference is 999
+Received msg: foo - hello!
+y:737
+thedifference is 999
+Received msg: foo - hello!
+y:738
+thedifference is 995
+Received msg: foo - hello!
+y:739
+thedifference is 998
+Received msg: foo - hello!
+y:740
+thedifference is 1031
+Received msg: foo - hello!
+y:741
+thedifference is 965
+Received msg: foo - hello!
+y:742
+thedifference is 1001
+Received msg: foo - hello!
+y:743
+thedifference is 998
+Received msg: foo - hello!
+y:744
+thedifference is 995
+Received msg: foo - hello!
+y:745
+thedifference is 997
+Received msg: foo - hello!
+y:746
+thedifference is 997
+Received msg: foo - hello!
+y:747
+thedifference is 998
+Received msg: foo - hello!
+y:748
+thedifference is 998
+Received msg: foo - hello!
+y:749
+thedifference is 999
+Received msg: foo - hello!
+y:750
+thedifference is 998
+Received msg: foo - hello!
+y:751
+thedifference is 997
+Received msg: foo - hello!
+y:752
+thedifference is 999
+Received msg: foo - hello!
+y:753
+thedifference is 996
+Received msg: foo - hello!
+y:754
+thedifference is 998
+Received msg: foo - hello!
+y:755
+thedifference is 997
+Received msg: foo - hello!
+y:756
+thedifference is 999
+Received msg: foo - hello!
+y:757
+thedifference is 980
+Received msg: foo - hello!
+y:758
+thedifference is 996
+Received msg: foo - hello!
+y:759
+thedifference is 997
+Received msg: foo - hello!
+y:760
+thedifference is 998
+Received msg: foo - hello!
+y:761
+thedifference is 998
+Received msg: foo - hello!
+y:762
+thedifference is 1009
+Received msg: foo - hello!
+y:763
+thedifference is 991
+Received msg: foo - hello!
+y:764
+thedifference is 997
+Received msg: foo - hello!
+y:765
+thedifference is 1036
+Received msg: foo - hello!
+y:766
+thedifference is 967
+Received msg: foo - hello!
+y:767
+thedifference is 996
+Received msg: foo - hello!
+y:768
+thedifference is 1001
+Received msg: foo - hello!
+y:769
+thedifference is 989
+Received msg: foo - hello!
+y:770
+thedifference is 995
+Received msg: foo - hello!
+y:771
+thedifference is 998
+Received msg: foo - hello!
+y:772
+thedifference is 998
+Received msg: foo - hello!
+y:773
+thedifference is 1000
+Received msg: foo - hello!
+y:774
+thedifference is 995
+Received msg: foo - hello!
+y:775
+thedifference is 1020
+Received msg: foo - hello!
+y:776
+thedifference is 975
+Received msg: foo - hello!
+y:777
+thedifference is 998
+Received msg: foo - hello!
+y:778
+thedifference is 993
+Received msg: foo - hello!
+y:779
+thedifference is 1000
+Received msg: foo - hello!
+y:780
+thedifference is 1009
+Received msg: foo - hello!
+y:781
+thedifference is 990
+Received msg: foo - hello!
+y:782
+thedifference is 991
+Received msg: foo - hello!
+y:783
+thedifference is 1003
+Received msg: foo - hello!
+y:784
+thedifference is 995
+Received msg: foo - hello!
+y:785
+thedifference is 993
+Received msg: foo - hello!
+y:786
+thedifference is 999
+Received msg: foo - hello!
+y:787
+thedifference is 999
+Received msg: foo - hello!
+y:788
+thedifference is 997
+Received msg: foo - hello!
+y:789
+thedifference is 998
+Received msg: foo - hello!
+y:790
+thedifference is 994
+Received msg: foo - hello!
+y:791
+thedifference is 998
+Received msg: foo - hello!
+y:792
+thedifference is 1003
+Received msg: foo - hello!
+y:793
+thedifference is 997
+Received msg: foo - hello!
+y:794
+thedifference is 998
+Received msg: foo - hello!
+y:795
+thedifference is 994
+Received msg: foo - hello!
+y:796
+thedifference is 1007
+Received msg: foo - hello!
+y:797
+thedifference is 991
+Received msg: foo - hello!
+y:798
+thedifference is 997
+Received msg: foo - hello!
+y:799
+thedifference is 998
+Received msg: foo - hello!
+y:800
+thedifference is 996
+Received msg: foo - hello!
+y:801
+thedifference is 997
+Received msg: foo - hello!
+y:802
+thedifference is 1003
+Received msg: foo - hello!
+y:803
+thedifference is 1000
+Received msg: foo - hello!
+y:804
+thedifference is 1002
+Received msg: foo - hello!
+y:805
+thedifference is 990
+Received msg: foo - hello!
+y:806
+thedifference is 996
+Received msg: foo - hello!
+y:807
+thedifference is 999
+Received msg: foo - hello!
+y:808
+thedifference is 998
+Received msg: foo - hello!
+y:809
+thedifference is 997
+Received msg: foo - hello!
+y:810
+thedifference is 996
+Received msg: foo - hello!
+y:811
+thedifference is 997
+Received msg: foo - hello!
+y:812
+thedifference is 1014
+Received msg: foo - hello!
+y:813
+thedifference is 990
+Received msg: foo - hello!
+y:814
+thedifference is 996
+Received msg: foo - hello!
+y:815
+thedifference is 992
+Received msg: foo - hello!
+y:816
+thedifference is 999
+Received msg: foo - hello!
+y:817
+thedifference is 1040
+Received msg: foo - hello!
+y:818
+thedifference is 961
+Received msg: foo - hello!
+y:819
+thedifference is 990
+Received msg: foo - hello!
+y:820
+thedifference is 1021
+Received msg: foo - hello!
+y:821
+thedifference is 986
+Received msg: foo - hello!
+y:822
+thedifference is 985
+Received msg: foo - hello!
+y:823
+thedifference is 994
+Received msg: foo - hello!
+y:824
+thedifference is 998
+Received msg: foo - hello!
+y:825
+thedifference is 1011
+Received msg: foo - hello!
+y:826
+thedifference is 984
+Received msg: foo - hello!
+y:827
+thedifference is 998
+Received msg: foo - hello!
+y:828
+thedifference is 1031
+Received msg: foo - hello!
+y:829
+thedifference is 969
+Received msg: foo - hello!
+y:830
+thedifference is 1002
+Received msg: foo - hello!
+y:831
+thedifference is 1005
+Received msg: foo - hello!
+y:832
+thedifference is 983
+Received msg: foo - hello!
+y:833
+thedifference is 985
+Received msg: foo - hello!
+y:834
+thedifference is 1000
+Received msg: foo - hello!
+y:835
+thedifference is 996
+Received msg: foo - hello!
+y:836
+thedifference is 991
+Received msg: foo - hello!
+y:837
+thedifference is 996
+Received msg: foo - hello!
+y:838
+thedifference is 990
+Received msg: foo - hello!
+y:839
+thedifference is 997
+Received msg: foo - hello!
+y:840
+thedifference is 997
+Received msg: foo - hello!
+y:841
+thedifference is 998
+Received msg: foo - hello!
+y:842
+thedifference is 997
+Received msg: foo - hello!
+y:843
+thedifference is 996
+Received msg: foo - hello!
+y:844
+thedifference is 1001
+Received msg: foo - hello!
+y:845
+thedifference is 1006
+Received msg: foo - hello!
+y:846
+thedifference is 990
+Received msg: foo - hello!
+y:847
+thedifference is 997
+Received msg: foo - hello!
+y:848
+thedifference is 1027
+Received msg: foo - hello!
+y:849
+thedifference is 971
+Received msg: foo - hello!
+y:850
+thedifference is 984
+Received msg: foo - hello!
+y:851
+thedifference is 993
+Received msg: foo - hello!
+y:852
+thedifference is 999
+Received msg: foo - hello!
+y:853
+thedifference is 1000
+Received msg: foo - hello!
+y:854
+thedifference is 993
+Received msg: foo - hello!
+y:855
+thedifference is 998
+Received msg: foo - hello!
+y:856
+thedifference is 1004
+Received msg: foo - hello!
+y:857
+thedifference is 991
+Received msg: foo - hello!
+y:858
+thedifference is 1047
+Received msg: foo - hello!
+y:859
+thedifference is 988
+Received msg: foo - hello!
+y:860
+thedifference is 970
+Received msg: foo - hello!
+y:861
+thedifference is 994
+Received msg: foo - hello!
+y:862
+thedifference is 996
+Received msg: foo - hello!
+y:863
+thedifference is 995
+Received msg: foo - hello!
+y:864
+thedifference is 998
+Received msg: foo - hello!
+y:865
+thedifference is 996
+Received msg: foo - hello!
+y:866
+thedifference is 997
+Received msg: foo - hello!
+y:867
+thedifference is 996
+Received msg: foo - hello!
+y:868
+thedifference is 997
+Received msg: foo - hello!
+y:869
+thedifference is 1000
+Received msg: foo - hello!
+y:870
+thedifference is 996
+Received msg: foo - hello!
+y:871
+thedifference is 997
+Received msg: foo - hello!
+y:872
+thedifference is 999
+Received msg: foo - hello!
+y:873
+thedifference is 996
+Received msg: foo - hello!
+y:874
+thedifference is 998
+Received msg: foo - hello!
+y:875
+thedifference is 998
+Received msg: foo - hello!
+y:876
+thedifference is 998
+Received msg: foo - hello!
+y:877
+thedifference is 999
+Received msg: foo - hello!
+y:878
+thedifference is 1022
+Received msg: foo - hello!
+y:879
+thedifference is 974
+Received msg: foo - hello!
+y:880
+thedifference is 992
+Received msg: foo - hello!
+y:881
+thedifference is 995
+Received msg: foo - hello!
+y:882
+thedifference is 999
+Received msg: foo - hello!
+y:883
+thedifference is 1004
+Received msg: foo - hello!
+y:884
+thedifference is 995
+Received msg: foo - hello!
+y:885
+thedifference is 992
+Received msg: foo - hello!
+y:886
+thedifference is 996
+Received msg: foo - hello!
+y:887
+thedifference is 1002
+Received msg: foo - hello!
+y:888
+thedifference is 1005
+Received msg: foo - hello!
+y:889
+thedifference is 989
+Received msg: foo - hello!
+y:890
+thedifference is 1007
+Received msg: foo - hello!
+y:891
+thedifference is 987
+Received msg: foo - hello!
+y:892
+thedifference is 1002
+Received msg: foo - hello!
+y:893
+thedifference is 993
+Received msg: foo - hello!
+y:894
+thedifference is 1010
+Received msg: foo - hello!
+y:895
+thedifference is 985
+Received msg: foo - hello!
+y:896
+thedifference is 1006
+Received msg: foo - hello!
+y:897
+thedifference is 1001
+Received msg: foo - hello!
+y:898
+thedifference is 995
+Received msg: foo - hello!
+y:899
+thedifference is 991
+Received msg: foo - hello!
+y:900
+thedifference is 996
+Received msg: foo - hello!
+y:901
+thedifference is 1001
+Received msg: foo - hello!
+y:902
+thedifference is 995
+Received msg: foo - hello!
+y:903
+thedifference is 995
+Received msg: foo - hello!
+y:904
+thedifference is 1001
+Received msg: foo - hello!
+y:905
+thedifference is 990
+Received msg: foo - hello!
+y:906
+thedifference is 1003
+Received msg: foo - hello!
+y:907
+thedifference is 999
+Received msg: foo - hello!
+y:908
+thedifference is 993
+Received msg: foo - hello!
+y:909
+thedifference is 990
+Received msg: foo - hello!
+y:910
+thedifference is 994
+Received msg: foo - hello!
+y:911
+thedifference is 998
+Received msg: foo - hello!
+y:912
+thedifference is 1002
+Received msg: foo - hello!
+y:913
+thedifference is 994
+Received msg: foo - hello!
+y:914
+thedifference is 1007
+Received msg: foo - hello!
+y:915
+thedifference is 1002
+Received msg: foo - hello!
+y:916
+thedifference is 1005
+Received msg: foo - hello!
+y:917
+thedifference is 986
+Received msg: foo - hello!
+y:918
+thedifference is 994
+Received msg: foo - hello!
+y:919
+thedifference is 996
+Received msg: foo - hello!
+y:920
+thedifference is 1000
+Received msg: foo - hello!
+y:921
+thedifference is 996
+Received msg: foo - hello!
+y:922
+thedifference is 998
+Received msg: foo - hello!
+y:923
+thedifference is 996
+Received msg: foo - hello!
+y:924
+thedifference is 998
+Received msg: foo - hello!
+y:925
+thedifference is 997
+Received msg: foo - hello!
+y:926
+thedifference is 997
+Received msg: foo - hello!
+y:927
+thedifference is 999
+Received msg: foo - hello!
+y:928
+thedifference is 998
+Received msg: foo - hello!
+y:929
+thedifference is 950
+Received msg: foo - hello!
+y:930
+thedifference is 1050
+Received msg: foo - hello!
+y:931
+thedifference is 995
+Received msg: foo - hello!
+y:932
+thedifference is 997
+Received msg: foo - hello!
+y:933
+thedifference is 996
+Received msg: foo - hello!
+y:934
+thedifference is 997
+Received msg: foo - hello!
+y:935
+thedifference is 997
+Received msg: foo - hello!
+y:936
+thedifference is 993
+Received msg: foo - hello!
+y:937
+thedifference is 998
+Received msg: foo - hello!
+y:938
+thedifference is 995
+Received msg: foo - hello!
+y:939
+thedifference is 1002
+Received msg: foo - hello!
+y:940
+thedifference is 995
+Received msg: foo - hello!
+y:941
+thedifference is 999
+Received msg: foo - hello!
+y:942
+thedifference is 995
+Received msg: foo - hello!
+y:943
+thedifference is 997
+Received msg: foo - hello!
+y:944
+thedifference is 1000
+Received msg: foo - hello!
+y:945
+thedifference is 1010
+Received msg: foo - hello!
+y:946
+thedifference is 988
+Received msg: foo - hello!
+y:947
+thedifference is 994
+Received msg: foo - hello!
+y:948
+thedifference is 999
+Received msg: foo - hello!
+y:949
+thedifference is 994
+Received msg: foo - hello!
+y:950
+thedifference is 1001
+Received msg: foo - hello!
+y:951
+thedifference is 997
+Received msg: foo - hello!
+y:952
+thedifference is 999
+Received msg: foo - hello!
+y:953
+thedifference is 995
+Received msg: foo - hello!
+y:954
+thedifference is 998
+Received msg: foo - hello!
+y:955
+thedifference is 997
+Received msg: foo - hello!
+y:956
+thedifference is 999
+Received msg: foo - hello!
+y:957
+thedifference is 997
+Received msg: foo - hello!
+y:958
+thedifference is 995
+Received msg: foo - hello!
+y:959
+thedifference is 1003
+Received msg: foo - hello!
+y:960
+thedifference is 999
+Received msg: foo - hello!
+y:961
+thedifference is 997
+Received msg: foo - hello!
+y:962
+thedifference is 997
+Received msg: foo - hello!
+y:963
+thedifference is 998
+Received msg: foo - hello!
+y:964
+thedifference is 999
+Received msg: foo - hello!
+y:965
+thedifference is 996
+Received msg: foo - hello!
+y:966
+thedifference is 997
+Received msg: foo - hello!
+y:967
+thedifference is 998
+Received msg: foo - hello!
+y:968
+thedifference is 998
+Received msg: foo - hello!
+y:969
+thedifference is 997
+Received msg: foo - hello!
+y:970
+thedifference is 998
+Received msg: foo - hello!
+y:971
+thedifference is 999
+Received msg: foo - hello!
+y:972
+thedifference is 997
+Received msg: foo - hello!
+y:973
+thedifference is 996
+Received msg: foo - hello!
+y:974
+thedifference is 997
+Received msg: foo - hello!
+y:975
+thedifference is 1005
+Received msg: foo - hello!
+y:976
+thedifference is 992
+Received msg: foo - hello!
+y:977
+thedifference is 998
+Received msg: foo - hello!
+y:978
+thedifference is 996
+Received msg: foo - hello!
+y:979
+thedifference is 999
+Received msg: foo - hello!
+y:980
+thedifference is 997
+Received msg: foo - hello!
+y:981
+thedifference is 998
+Received msg: foo - hello!
+y:982
+thedifference is 998
+Received msg: foo - hello!
+y:983
+thedifference is 989
+Received msg: foo - hello!
+y:984
+thedifference is 998
+Received msg: foo - hello!
+y:985
+thedifference is 1003
+Received msg: foo - hello!
+y:986
+thedifference is 996
+Received msg: foo - hello!
+y:987
+thedifference is 996
+Received msg: foo - hello!
+y:988
+thedifference is 998
+Received msg: foo - hello!
+y:989
+thedifference is 998
+Received msg: foo - hello!
+y:990
+thedifference is 995
+Received msg: foo - hello!
+y:991
+thedifference is 997
+Received msg: foo - hello!
+y:992
+thedifference is 1000
+Received msg: foo - hello!
+y:993
+thedifference is 996
+Received msg: foo - hello!
+y:994
+thedifference is 998
+Received msg: foo - hello!
+y:995
+thedifference is 997
+Received msg: foo - hello!
+y:996
+thedifference is 999
+Received msg: foo - hello!
+y:997
+thedifference is 998
+Received msg: foo - hello!
+y:998
+thedifference is 996
+Received msg: foo - hello!
+y:999
+thedifference is 997
+Received msg: foo - hello!
+y:1000
+thedifference is 1000
+Received msg: foo - hello!
+y:1001
+thedifference is 996
+Received msg: foo - hello!
+y:1002
+thedifference is 997
+Received msg: foo - hello!
+y:1003
+thedifference is 1000
+Received msg: foo - hello!
+y:1004
+thedifference is 997
+Received msg: foo - hello!
+y:1005
+thedifference is 1001
+Received msg: foo - hello!
+y:1006
+thedifference is 1000
+Received msg: foo - hello!
+y:1007
+thedifference is 997
+Received msg: foo - hello!
+y:1008
+thedifference is 1000
+Received msg: foo - hello!
+y:1009
+thedifference is 994
+Received msg: foo - hello!
+y:1010
+thedifference is 995
+Received msg: foo - hello!
+y:1011
+thedifference is 999
+Received msg: foo - hello!
+y:1012
+thedifference is 999
+Received msg: foo - hello!
+y:1013
+thedifference is 997
+Received msg: foo - hello!
+y:1014
+thedifference is 996
+Received msg: foo - hello!
+y:1015
+thedifference is 997
+Received msg: foo - hello!
+y:1016
+thedifference is 991
+Received msg: foo - hello!
+y:1017
+thedifference is 998
+Received msg: foo - hello!
+y:1018
+thedifference is 1006
+Received msg: foo - hello!
+y:1019
+thedifference is 991
+Received msg: foo - hello!
+y:1020
+thedifference is 1029
+Received msg: foo - hello!
+y:1021
+thedifference is 979
+Received msg: foo - hello!
+y:1022
+thedifference is 1033
+Received msg: foo - hello!
+y:1023
+thedifference is 962
+Received msg: foo - hello!
+y:1024
+thedifference is 1014
+Received msg: foo - hello!
+y:1025
+thedifference is 973
+Received msg: foo - hello!
+y:1026
+thedifference is 985
+Received msg: foo - hello!
+y:1027
+thedifference is 996
+Received msg: foo - hello!
+y:1028
+thedifference is 999
+Received msg: foo - hello!
+y:1029
+thedifference is 999
+Received msg: foo - hello!
+y:1030
+thedifference is 991
+Received msg: foo - hello!
+y:1031
+thedifference is 1002
+Received msg: foo - hello!
+y:1032
+thedifference is 999
+Received msg: foo - hello!
+y:1033
+thedifference is 999
+Received msg: foo - hello!
+y:1034
+thedifference is 999
+Received msg: foo - hello!
+y:1035
+thedifference is 990
+Received msg: foo - hello!
+y:1036
+thedifference is 1007
+Received msg: foo - hello!
+y:1037
+thedifference is 991
+Received msg: foo - hello!
+y:1038
+thedifference is 994
+Received msg: foo - hello!
+y:1039
+thedifference is 1003
+Received msg: foo - hello!
+y:1040
+thedifference is 1001
+Received msg: foo - hello!
+y:1041
+thedifference is 996
+Received msg: foo - hello!
+y:1042
+thedifference is 992
+Received msg: foo - hello!
+y:1043
+thedifference is 997
+Received msg: foo - hello!
+y:1044
+thedifference is 1013
+Received msg: foo - hello!
+y:1045
+thedifference is 993
+Received msg: foo - hello!
+y:1046
+thedifference is 987
+Received msg: foo - hello!
+y:1047
+thedifference is 997
+Received msg: foo - hello!
+y:1048
+thedifference is 1001
+Received msg: foo - hello!
+y:1049
+thedifference is 1005
+Received msg: foo - hello!
+y:1050
+thedifference is 986
+Received msg: foo - hello!
+y:1051
+thedifference is 998
+Received msg: foo - hello!
+y:1052
+thedifference is 999
+Received msg: foo - hello!
+y:1053
+thedifference is 1008
+Received msg: foo - hello!
+y:1054
+thedifference is 999
+Received msg: foo - hello!
+y:1055
+thedifference is 987
+Received msg: foo - hello!
+y:1056
+thedifference is 1005
+Received msg: foo - hello!
+y:1057
+thedifference is 995
+Received msg: foo - hello!
+y:1058
+thedifference is 980
+Received msg: foo - hello!
+y:1059
+thedifference is 1005
+Received msg: foo - hello!
+y:1060
+thedifference is 990
+Received msg: foo - hello!
+y:1061
+thedifference is 992
+Received msg: foo - hello!
+y:1062
+thedifference is 996
+Received msg: foo - hello!
+y:1063
+thedifference is 997
+Received msg: foo - hello!
+y:1064
+thedifference is 1002
+Received msg: foo - hello!
+y:1065
+thedifference is 997
+Received msg: foo - hello!
+y:1066
+thedifference is 996
+Received msg: foo - hello!
+y:1067
+thedifference is 998
+Received msg: foo - hello!
+y:1068
+thedifference is 998
+Received msg: foo - hello!
+y:1069
+thedifference is 1006
+Received msg: foo - hello!
+y:1070
+thedifference is 995
+Received msg: foo - hello!
+y:1071
+thedifference is 999
+Received msg: foo - hello!
+y:1072
+thedifference is 997
+Received msg: foo - hello!
+y:1073
+thedifference is 997
+Received msg: foo - hello!
+y:1074
+thedifference is 1000
+Received msg: foo - hello!
+y:1075
+thedifference is 997
+Received msg: foo - hello!
+y:1076
+thedifference is 998
+Received msg: foo - hello!
+y:1077
+thedifference is 999
+Received msg: foo - hello!
+y:1078
+thedifference is 994
+Received msg: foo - hello!
+y:1079
+thedifference is 1000
+Received msg: foo - hello!
+y:1080
+thedifference is 994
+Received msg: foo - hello!
+y:1081
+thedifference is 999
+Received msg: foo - hello!
+y:1082
+thedifference is 998
+Received msg: foo - hello!
+y:1083
+thedifference is 998
+Received msg: foo - hello!
+y:1084
+thedifference is 1000
+Received msg: foo - hello!
+y:1085
+thedifference is 996
+Received msg: foo - hello!
+y:1086
+thedifference is 997
+Received msg: foo - hello!
+y:1087
+thedifference is 998
+Received msg: foo - hello!
+y:1088
+thedifference is 999
+Received msg: foo - hello!
+y:1089
+thedifference is 998
+Received msg: foo - hello!
+y:1090
+thedifference is 992
+Received msg: foo - hello!
+y:1091
+thedifference is 1000
+Received msg: foo - hello!
+y:1092
+thedifference is 995
+Received msg: foo - hello!
+y:1093
+thedifference is 996
+Received msg: foo - hello!
+y:1094
+thedifference is 996
+Received msg: foo - hello!
+y:1095
+thedifference is 1004
+Received msg: foo - hello!
+y:1096
+thedifference is 1000
+Received msg: foo - hello!
+y:1097
+thedifference is 997
+Received msg: foo - hello!
+y:1098
+thedifference is 998
+Received msg: foo - hello!
+y:1099
+thedifference is 998
+Received msg: foo - hello!
+y:1100
+thedifference is 960
+Received msg: foo - hello!
+y:1101
+thedifference is 1034
+Received msg: foo - hello!
+y:1102
+thedifference is 998
+Received msg: foo - hello!
+y:1103
+thedifference is 999
+Received msg: foo - hello!
+y:1104
+thedifference is 993
+Received msg: foo - hello!
+y:1105
+thedifference is 992
+Received msg: foo - hello!
+y:1106
+thedifference is 1001
+Received msg: foo - hello!
+y:1107
+thedifference is 997
+Received msg: foo - hello!
+y:1108
+thedifference is 999
+Received msg: foo - hello!
+y:1109
+thedifference is 996
+Received msg: foo - hello!
+y:1110
+thedifference is 1002
+Received msg: foo - hello!
+y:1111
+thedifference is 995
+Received msg: foo - hello!
+y:1112
+thedifference is 999
+Received msg: foo - hello!
+y:1113
+thedifference is 995
+Received msg: foo - hello!
+y:1114
+thedifference is 998
+Received msg: foo - hello!
+y:1115
+thedifference is 998
+Received msg: foo - hello!
+y:1116
+thedifference is 1003
+Received msg: foo - hello!
+y:1117
+thedifference is 994
+Received msg: foo - hello!
+y:1118
+thedifference is 997
+Received msg: foo - hello!
+y:1119
+thedifference is 998
+Received msg: foo - hello!
+y:1120
+thedifference is 1003
+Received msg: foo - hello!
+y:1121
+thedifference is 1000
+Received msg: foo - hello!
+y:1122
+thedifference is 997
+Received msg: foo - hello!
+y:1123
+thedifference is 997
+Received msg: foo - hello!
+y:1124
+thedifference is 998
+Received msg: foo - hello!
+y:1125
+thedifference is 996
+Received msg: foo - hello!
+y:1126
+thedifference is 997
+Received msg: foo - hello!
+y:1127
+thedifference is 999
+Received msg: foo - hello!
+y:1128
+thedifference is 998
+Received msg: foo - hello!
+y:1129
+thedifference is 996
+Received msg: foo - hello!
+y:1130
+thedifference is 999
+Received msg: foo - hello!
+y:1131
+thedifference is 1000
+Received msg: foo - hello!
+y:1132
+thedifference is 989
+Received msg: foo - hello!
+y:1133
+thedifference is 994
+Received msg: foo - hello!
+y:1134
+thedifference is 996
+Received msg: foo - hello!
+y:1135
+thedifference is 998
+Received msg: foo - hello!
+y:1136
+thedifference is 999
+Received msg: foo - hello!
+y:1137
+thedifference is 1000
+Received msg: foo - hello!
+y:1138
+thedifference is 994
+Received msg: foo - hello!
+y:1139
+thedifference is 997
+Received msg: foo - hello!
+y:1140
+thedifference is 996
+Received msg: foo - hello!
+y:1141
+thedifference is 1000
+Received msg: foo - hello!
+y:1142
+thedifference is 997
+Received msg: foo - hello!
+y:1143
+thedifference is 997
+Received msg: foo - hello!
+y:1144
+thedifference is 996
+Received msg: foo - hello!
+y:1145
+thedifference is 1003
+Received msg: foo - hello!
+y:1146
+thedifference is 1029
+Received msg: foo - hello!
+y:1147
+thedifference is 965
+Received msg: foo - hello!
+y:1148
+thedifference is 996
+Received msg: foo - hello!
+y:1149
+thedifference is 1007
+Received msg: foo - hello!
+y:1150
+thedifference is 985
+Received msg: foo - hello!
+y:1151
+thedifference is 997
+Received msg: foo - hello!
+y:1152
+thedifference is 998
+Received msg: foo - hello!
+y:1153
+thedifference is 1008
+Received msg: foo - hello!
+y:1154
+thedifference is 987
+Received msg: foo - hello!
+y:1155
+thedifference is 997
+Received msg: foo - hello!
+y:1156
+thedifference is 997
+Received msg: foo - hello!
+y:1157
+thedifference is 996
+Received msg: foo - hello!
+y:1158
+thedifference is 1007
+Received msg: foo - hello!
+y:1159
+thedifference is 998
+Received msg: foo - hello!
+y:1160
+thedifference is 998
+Received msg: foo - hello!
+y:1161
+thedifference is 991
+Received msg: foo - hello!
+y:1162
+thedifference is 996
+Received msg: foo - hello!
+y:1163
+thedifference is 997
+Received msg: foo - hello!
+y:1164
+thedifference is 1002
+Received msg: foo - hello!
+y:1165
+thedifference is 994
+Received msg: foo - hello!
+y:1166
+thedifference is 997
+Received msg: foo - hello!
+y:1167
+thedifference is 1008
+Received msg: foo - hello!
+y:1168
+thedifference is 989
+Received msg: foo - hello!
+y:1169
+thedifference is 994
+Received msg: foo - hello!
+y:1170
+thedifference is 998
+Received msg: foo - hello!
+y:1171
+thedifference is 998
+Received msg: foo - hello!
+y:1172
+thedifference is 999
+Received msg: foo - hello!
+y:1173
+thedifference is 996
+Received msg: foo - hello!
+y:1174
+thedifference is 997
+Received msg: foo - hello!
+y:1175
+thedifference is 1718
+Received msg: foo - hello!
+y:1176
+thedifference is 285
+Received msg: foo - hello!
+y:1177
+thedifference is 985
+Received msg: foo - hello!
+y:1178
+thedifference is 994
+Received msg: foo - hello!
+y:1179
+thedifference is 997
+Received msg: foo - hello!
+y:1180
+thedifference is 1000
+Received msg: foo - hello!
+y:1181
+thedifference is 1008
+Received msg: foo - hello!
+y:1182
+thedifference is 985
+Received msg: foo - hello!
+y:1183
+thedifference is 1000
+Received msg: foo - hello!
+y:1184
+thedifference is 1005
+Received msg: foo - hello!
+y:1185
+thedifference is 998
+Received msg: foo - hello!
+y:1186
+thedifference is 1030
+Received msg: foo - hello!
+y:1187
+thedifference is 970
+Received msg: foo - hello!
+y:1188
+thedifference is 994
+Received msg: foo - hello!
+y:1189
+thedifference is 993
+Received msg: foo - hello!
+y:1190
+thedifference is 1010
+Received msg: foo - hello!
+y:1191
+thedifference is 986
+Received msg: foo - hello!
+y:1192
+thedifference is 1033
+Received msg: foo - hello!
+y:1193
+thedifference is 972
+Received msg: foo - hello!
+y:1194
+thedifference is 995
+Received msg: foo - hello!
+y:1195
+thedifference is 996
+Received msg: foo - hello!
+y:1196
+thedifference is 996
+Received msg: foo - hello!
+y:1197
+thedifference is 991
+Received msg: foo - hello!
+y:1198
+thedifference is 997
+Received msg: foo - hello!
+y:1199
+thedifference is 1011
+Received msg: foo - hello!
+y:1200
+thedifference is 987
+Received msg: foo - hello!
+y:1201
+thedifference is 995
+Received msg: foo - hello!
+y:1202
+thedifference is 997
+Received msg: foo - hello!
+y:1203
+thedifference is 999
+Received msg: foo - hello!
+y:1204
+thedifference is 1032
+Received msg: foo - hello!
+y:1205
+thedifference is 968
+Received

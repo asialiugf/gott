@@ -18,13 +18,15 @@ int main(int argc, char **argv)
         // Creates an synchronous subscription on subject "foo".
         s = natsConnection_SubscribeSync(&sub, conn, "foo");
     }
+
+	while(1){
     if (s == NATS_OK)
     {
         // With synchronous subscriptions, one need to poll
         // using this function. A timeout is used to instruct
         // how long we are willing to wait. The wait is in milliseconds.
         // So here, we are going to wait for 5 seconds.
-        s = natsSubscription_NextMsg(&msg, sub, 5000);
+        s = natsSubscription_NextMsg(&msg, sub, 500000);
     }
     if (s == NATS_OK)
     {
@@ -37,6 +39,7 @@ int main(int argc, char **argv)
         // Need to destroy the message!
         natsMsg_Destroy(msg);
     }
+	}
 
     // Anything that is created need to be destroyed
     natsSubscription_Destroy(sub);
