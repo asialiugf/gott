@@ -1,10 +1,13 @@
-
-mmm = "ok!!!!!!!!!!!!1"
-
 class StrategyBase(object):
+    mmm = ""
+    bbb = "bbb in class"
     def __init__(self, *args, **kwargs):
-        print( "this is a test!!")
-        print (self.strategy_id)
+        xxx = "xxx"
+        self.bbb = "bbb in init!"
+        self.mmm = "ok!!!!!!!!!!!!!!!!!!!"
+        self.ccc = "ccccc"
+        print( "this is a test!! in base __init__")
+        #print (self.strategy_id)
         #super(Mystrategy, self).__init__(*args, **kwargs)
 
     def on_schedule(self):

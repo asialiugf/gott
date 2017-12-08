@@ -10,11 +10,22 @@ import numpy as np
 import datetime
 import math
 
+
+# ------------------------------------------------------------
+# 自定义变量区
+ttt = 1000
+
+# ------------------------------------------------------------
+# 自定义函数区
+def test():
+    print("this is a test fun!!")
+
+# ------------------------------------------------------------
 from fooquant.base import StrategyBase
 
 class Mystrategy(StrategyBase):
     def __init__(self, *args, **kwargs):
-        #super(Mystrategy, self).__init__(*args, **kwargs)
+        super(Mystrategy, self).__init__(*args, **kwargs)
         pass
 
 
@@ -28,8 +39,13 @@ class Mystrategy(StrategyBase):
         pass
 
     def on_bar(self, bar):
-        print(mmm)
+        print(self.ccc)
+        print(self.bbb)
+        print(ttt)
+        #print(xxx)
+        print(self.mmm)
         print(bar)
+        test()
         pass
 
     def on_execrpt(self, res):
