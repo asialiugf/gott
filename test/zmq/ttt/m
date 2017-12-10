@@ -1,0 +1,2 @@
+cc pub.c -I /usr/include/zmq -lzmq -o pub.x
+cc sub.c -I /usr/include/zmq -lzmq -o sub.x

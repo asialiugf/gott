@@ -1,1 +1,1 @@
-g++ -std=c++14 -o t pool1.c  -pthread
+g++ -std=c++14 -o pool pool1.cc  -pthread
