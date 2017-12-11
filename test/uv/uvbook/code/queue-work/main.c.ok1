@@ -1,0 +1,83 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <pthread.h>  
+#include <sys/types.h>  
+#include <sys/wait.h>  
+//#include <sys/syscall.h>
+
+#include <uv.h>
+
+#define FIB_UNTIL 5
+uv_loop_t *loop;
+
+long fib_(long t) {
+    if (t == 0 || t == 1)
+        return 1;
+    else
+	    //printf("n:%d  ",t);
+        return fib_(t-1) + fib_(t-2);
+}
+
+void fib(uv_work_t *req) {
+    int n = *(int *) req->data;
+    if (random() % 2)
+        sleep(1);
+    else
+        sleep(1);
+    long fib = fib_(n);
+	printf("work-------pid: %d, tid:%ld, self: %ld\n", getpid(), (long int)syscall(224), pthread_self());
+    fprintf(stderr, "%dth fibonacci is %lu\n", n, fib);
+}
+
+void after_fib(uv_work_t *req, int status) {
+	printf("after:----------pid: %d, tid:%ld, self: %ld\n", getpid(), (long int)syscall(224), pthread_self());
+    fprintf(stderr, "Done calculating %dth fibonacci\n", *(int *) req->data);
+}
+
+void test1() {
+    int i = 0;
+	for( i = 0;i<20;i++ ) {
+		printf(" test1 thread:%ld,  %d\n",pthread_self(),i );
+		sleep(1);
+	}
+}
+
+void test2() {
+    int i = 0;
+	for( i = 0;i<10;i++ ) {
+		printf(" test2 thread:%ld,  %d\n",pthread_self(),i );
+		sleep(1);
+	}
+}
+
+void after_test1() {
+	printf("after test1\n");
+}
+
+int main() {
+    loop = uv_default_loop();
+
+    int data[FIB_UNTIL];
+    uv_work_t req[FIB_UNTIL];
+    int i;
+    for (i = 0; i < FIB_UNTIL; i++) {
+        data[i] = i;
+        req[i].data = (void *) &data[i];
+        uv_queue_work(loop, &req[i], fib, after_fib);
+    }
+	uv_work_t work0;
+	uv_work_t work1;
+	uv_work_t work2;
+	uv_work_t work3;
+	uv_work_t work4;
+	uv_queue_work(loop, &work0, test1, after_test1);
+	uv_queue_work(loop, &work1, test2, after_test1);
+	uv_queue_work(loop, &work2, test1, after_test1);
+	uv_queue_work(loop, &work3, test1, after_test1);
+	uv_queue_work(loop, &work4, test1, after_test1);
+
+	printf("pid: %d, tid:%ld, self: %ld\n", getpid(), (long int)syscall(224), pthread_self());
+
+    return uv_run(loop, UV_RUN_DEFAULT);
+}
