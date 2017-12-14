@@ -27,7 +27,7 @@ examples=\
 	async \
 	queue-cancel
 
-UV_PATH=/root/source/libuv
+UV_PATH=/usr/local
 UV_LIB=
 CFLAGS=-g -Wall -I$(UV_PATH)/include
 LIBS=
